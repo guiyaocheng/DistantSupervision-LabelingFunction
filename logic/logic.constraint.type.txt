@@ -1,0 +1,16 @@
+type("/location/location/contains","location","location").
+type("/people/deceased_person/cause_of_death","person","cause_of_death").
+type("/organization/organization/founders","organization","person").
+type("/people/person/profession","person","profession").
+type("/people/person/place_of_birth","person","location").
+type("/people/place_lived/location","person","location").
+type("/organization/organization/place_founded","organization","location").
+type("/location/location/nearby_airports","location","airport").
+type("/people/deceased_person/place_of_death","person","location").
+type("/people/person/children","person","person").
+type("/people/person/languages","person","language").
+
+
+
+
+

@@ -1,0 +1,33 @@
+#show basic_label/2.
+#show key_in_sent/2.
+#show key_in_path/2.
+#show type_sat/2.
+%#show label/2.
+#show conn_sat/2.
+#show conn_1/3.
+#show conn_2/4.
+
+basic_label(R,S,E1,P1,E2,P2,T1,T2) :- rel(R,FE1,FE2),ner(S,E1,P1,T1),ner(S,E2,P2,T2),sim(FE1,E1),sim(FE2,E2).
+basic_label(R,S) :- basic_label(R,S,E1,P1,E2,P2,T1,T2).
+key(R,L) :- key(R,L,POS).
+key_in_sent(R,S) :- key(R,L),lemma(S,W,P,L),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+key_in_path(R,S) :- key(R,L),lemma(S,W,P,L),inpath(S,E1,P1,E2,P2,W,P),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+type_sat(R,S) :- type(R,T1,T2),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+conn_sat(R,S) :- conn(R,S,E1,P1,E2,P2),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+%label(R,S) :- label(R,S,E1,E2),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+
+
+conn_1("/people/person/profession",SID,E1,P1,E2,P2,"appos") :- dep(SID,"appos",E1,P1,E2,P2),basic_label("/people/person/profession",S,E1,P1,E2,P2,T1,T2).
+conn_1("/people/person/profession",SID,E1,P1,E2,P2,"appos") :- dep(SID,"appos",E2,P2,E1,P1),basic_label("/people/person/profession",S,E1,P1,E2,P2,T1,T2).
+conn_1("/people/person/profession",SID,E1,P1,E2,P2,"compound") :- dep(SID,"compound",E1,P1,E2,P2),basic_label("/people/person/profession",S,E1,P1,E2,P2,T1,T2).
+conn_1("/people/person/profession",SID,E1,P1,E2,P2,"dobj") :- dep(SID,"dobj",E2,P2,E1,P1),basic_label("/people/person/profession",S,E1,P1,E2,P2,T1,T2).
+conn_1("/people/person/profession",SID,E1,P1,E2,P2,"nsubj") :- dep(SID,"nsubj",E2,P2,E1,P1),basic_label("/people/person/profession",S,E1,P1,E2,P2,T1,T2).
+conn_1("/people/person/profession",SID,E1,P1,E2,P2,"nmod:pass") :- dep(SID,"nmod:pass",E2,P2,E1,P1),basic_label("/people/person/profession",S,E1,P1,E2,P2,T1,T2).
+
+conn_1("/location/location/contains",SID,E1,P1,E2,P2,"nmod") :- dep(SID,"nmod",E2,P2,E1,P1),basic_label("/location/location/contains",S,E1,P1,E2,P2,T1,T2).
+conn_1("/location/location/contains",SID,E1,P1,E2,P2,"appos") :- dep(SID,"appos",E2,P2,E1,P1),basic_label("/location/location/contains",S,E1,P1,E2,P2,T1,T2).
+conn_2("/location/location/contains",SID,E1,P1,E2,P2,"appos","nmod") :- dep(SID,"nmod",E2,P2,X3,P3),dep(SID,"appos",X3,P3,E1,P1),basic_label("/location/location/contains",S,E1,P1,E2,P2,T1,T2).
+
+
+conn_1(R,S,D) :- conn_1(R,S,E1,P1,E2,P2,D).
+conn_2(R,S,D1,D2) :- conn_2(R,S,E1,P1,E2,P2,D1,D2).

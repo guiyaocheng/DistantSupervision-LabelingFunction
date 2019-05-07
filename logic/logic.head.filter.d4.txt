@@ -1,0 +1,21 @@
+#show label/6.
+
+
+basic_label(R,S,E1,P1,E2,P2,T1,T2) :- rel(R,E1,E2),ner(S,E1,P1,T1),ner(S,E2,P2,T2).
+key(R,L) :- key(R,L,POS).
+key_in_sent(R,S,E1,P1,E2,P2) :- key(R,L),lemma(S,W,P,L),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+key_in_path(R,S,E1,P1,E2,P2) :- key(R,L),lemma(S,W,P,L),inpath(S,E1,P1,E2,P2,W,P),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+type_sat(R,S,E1,P1,E2,P2) :- type(R,T1,T2),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+conn_sat(R,S,E1,P1,E2,P2) :- conn(R,S,E1,P1,E2,P2),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+conn_sat(R,S,E1,P1,E2,P2) :- conn(S,E1,P1,E2,P2),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+
+label(R,S,E1,P1,E2,P2) :- key_in_path(R,S,E1,P1,E2,P2).
+label(R,S,E1,P1,E2,P2) :- key_in_sent(R,S,E1,P1,E2,P2).
+
+
+label("/people/person/languages",S,E1,P1,E2,P2) :- type_sat("/people/person/languages",S,E1,P1,E2,P2).
+label("/people/place_lived/location",S,E1,P1,E2,P2) :- type_sat("/people/place_lived/location",S,E1,P1,E2,P2).
+label("/organization/organization/place_founded",S,E1,P1,E2,P2) :- type_sat("/organization/organization/place_founded",S,E1,P1,E2,P2).
+label("/location/location/nearby_airports",S,E1,P1,E2,P2) :- type_sat("/location/location/nearby_airports",S,E1,P1,E2,P2).
+label("/people/person/profession",S,E1,P1,E2,P2) :- type_sat("/people/person/profession",S,E1,P1,E2,P2).
+label("/location/location/contains",S,E1,P1,E2,P2) :- conn_sat("/location/location/contains",S,E1,P1,E2,P2).

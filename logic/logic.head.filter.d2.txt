@@ -1,0 +1,7 @@
+#show label/6.
+
+basic_label(R,S,E1,P1,E2,P2,T1,T2) :- rel(R,E1,E2),ner(S,E1,P1,T1),ner(S,E2,P2,T2).
+
+type_sat(R,S,E1,P1,E2,P2) :- type(R,T1,T2),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+
+label(R,S,E1,P1,E2,P2) :- type_sat(R,S,E1,P1,E2,P2).

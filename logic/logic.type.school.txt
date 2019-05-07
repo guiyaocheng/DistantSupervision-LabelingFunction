@@ -1,0 +1,1614 @@
+school("princeton university").
+school("art students league of new york").
+school("technical university of munich").
+school("california state university").
+school("beaux-arts").
+school("vienna polytechnic institute").
+school("paris").
+school("university of cambridge").
+school("sebastiano ricci").
+school("théodore deck").
+school("university of ceylon").
+school("university of leipzig").
+school("state university of new york").
+school("moscow state university").
+school("madrid spain").
+school("brown university").
+school("ohio northern university").
+school("harvard business school").
+school("university of wisconsin-madison").
+school("walnut hill school of the performing arts").
+school("university of leicester").
+school("univerzita komenského").
+school("college of charleston").
+school("academy of fine arts vienna").
+school("college of wooster").
+school("university college london").
+school("academy of fine arts munich").
+school("normale").
+school("university of british columbia").
+school("nationale des ponts et chaussées").
+school("university of jena").
+school("san carlos academy").
+school("huntingdon college").
+school("chalmers university of technology").
+school("oberlin preparatory college in ohio").
+school("memphis state university").
+school("swarthmore college").
+school("ferrol").
+school("andrea del sarto").
+school("xinhua college of art").
+school("university of helsinki").
+school("drake university").
+school("imperial college").
+school("trinity college, cambridge").
+school("escuela libre de derecho").
+school("new-york central college, mcgrawville").
+school("brooklyn academy of fine arts").
+school("mph").
+school("layton school of art").
+school("technical university of berlin").
+school("city university of new york").
+school("instituto superior técnico").
+school("self-taught").
+school("university of california, san diego").
+school("hardin-simmons university").
+school("victoria university of manchester").
+school("slade school").
+school("oporto university").
+school("albert ludwigs university of freiburg").
+school("institute for advanced study").
+school("technical university of stuttgart").
+school("whitney museum independent study program").
+school("john r. smith").
+school("mount saint agnes college").
+school("humboldt university of berlin").
+school("college of new jersey").
+school("lasalle-sia college of the arts").
+school("medway college of art and design").
+school("university of innsbruck").
+school("académie julian").
+school("university of science and technology of china").
+school("städelschule").
+school("bloomfield hills, michigan").
+school("aligarh").
+school("queens college").
+school("university of california, davis").
+school("claremont graduate university").
+school("thierry veltman").
+school("university of kiel").
+school("australian national university").
+school("b.a.").
+school("domenico ghirlandaio").
+school("university of kristiania").
+school("university of lyon").
+school("nicolae grigorescu").
+school("state university of new york at stony brook").
+school("dhaka college").
+school("iowa state university").
+school("calarts").
+school("v. i. ulyanov electrotechnical institute").
+school("columbia college").
+school("university of notre dame").
+school("new delhi").
+school("the school of visual arts").
+school("university of straßburg").
+school("università cattolica del sacro cuore").
+school("university of the punjab, lahore").
+school("university of arizona in tucson").
+school("washington university").
+school("haileybury and imperial service college").
+school("latin school of chicago").
+school("london").
+school("kansas city art institute").
+school("university of california, santa cruz").
+school("meisterchule").
+school("houston ballet").
+school("heidelberg").
+school("st petersburg university").
+school("accademia italiana").
+school("damascus").
+school("tokyo university").
+school("vanderbilt u.").
+school("britain").
+school("hans huyssing").
+school("manhattan college").
+school("philadelphia").
+school("pennsylvania academy of fine arts").
+school("krannert school").
+school("san francisco ballet").
+school("university of salerno").
+school("mathematics").
+school("new york state school of clay-working and ceramics").
+school("charing cross hospital").
+school("california college of arts and crafts").
+school("rockefeller university").
+school("moscow school of painting, sculpture and architecture").
+school("kensington school of art").
+school("university of liverpool").
+school("magdalene college, cambridge").
+school("jean-jacques bachelier").
+school("rembrandt").
+school("central high school philadelphia .").
+school("university of chicago law school").
+school("itesm").
+school("randolph-macon college").
+school("st. petersburg state mining institute").
+school("panjab university, chandigarh").
+school("university of christiania").
+school("stetson university").
+school("ballet russe de monte carlo").
+school("göttingen").
+school("university of iowa").
+school("yale").
+school("halifax").
+school("novocherkassk polytechnic institute").
+school("lille i university of science and technology").
+school("university of nevada, las vegas").
+school("carol wallenstein").
+school("antwerpen").
+school("düsseldorf school").
+school("t.j. clark").
+school("man ray").
+school("strasbourg").
+school("master e. s.").
+school("college of physicians and surgeons").
+school("philadelphia pa").
+school("st bartholomew's hospital").
+school("university of königsberg").
+school("circulo artístico de sant lluc").
+school("the royal university college of fine arts , stockholm, sweden, 1938-1944").
+school("norwegian institute of technology").
+school("university of yaoundé i").
+school("lette verein in berlin").
+school("nova southeastern university").
+school("master of fine arts").
+school("frank mcewen").
+school("academie de la grande chaumiere").
+school("university of waterloo").
+school("latvian state university").
+school("mfa").
+school("hamburg").
+school("kawabata gagakou").
+school("museum of modern art  under ivan serpa.").
+school("colby-sawyer college").
+school("columbia").
+school("b.a.e.").
+school("sofia university").
+school("real academia de bellas artes de san fernando").
+school("university of puerto rico").
+school("sheffield school of art").
+school("nelson gallery of art").
+school("university of fribourg").
+school("geneva art society").
+school("akademie").
+school("diego rivera").
+school("mcalester college").
+school("belgrade university").
+school("university of wiesbaden").
+school("chelsea").
+school("josé padilla").
+school("sacramento state college").
+school("st john's college, oxford").
+school("jacques lipchitz").
+school("jules-joseph lefebvre").
+school("fundación universidad de las américas, puebla").
+school("usma").
+school("university of kristiana").
+school("academie des beaux arts").
+school("leeds college of art and design").
+school("la sapienza university of rome").
+school("university of odessa").
+school("dimitrie paciurea").
+school("the jesuit college at genoa").
+school("kingston college of art").
+school("bedford modern school").
+school("vienna school of arts and crafts").
+school("duke").
+school("university of berlin").
+school("munich").
+school("serbia").
+school("university of florence").
+school("cal arts").
+school("the catholic university of america").
+school("university of graz").
+school("yildiz teknik universitesi").
+school("university of lausanne").
+school("ohio state university").
+school("cornell university").
+school("ealing school of art").
+school("university of geneva - switzerland").
+school("university of calgary").
+school("shanghai").
+school("kyushu institute of technology").
+school("ivy school of professional art").
+school("university of wisconsin").
+school("rhodes university").
+school("yale medical school").
+school("vienna university of technology").
+school("brooklyn museum").
+school("harvard law school").
+school("university of illinois at urbana-champaign").
+school("wimbledon school of art").
+school("university of glasgow").
+school("university of karachi").
+school("fbi academy").
+school("esslingen university of applied sciences").
+school("sankt petersburg academy").
+school("king's college london").
+school("supérieure d'électricité").
+school("b.s.").
+school("universität berlin").
+school("weizmann institute of science").
+school("cape town").
+school("university of groningen").
+school("california institute of the arts").
+school("northwestern university").
+school("brussels").
+school("university of virginia").
+school("national and kapodistrian university of athens").
+school("charles gleyre").
+school("nanyang academy of fine arts").
+school("bratislava").
+school("aitchison college").
+school("universidad autónoma de san luis potosí").
+school("queen's university of belfast").
+school("goldsmiths college").
+school("thomas eakins").
+school("university of copenhagen").
+school("syria").
+school("largely self taught").
+school("university of rome").
+school("technische hochschule wien").
+school("ukraine").
+school("vaganova academy of russian ballet").
+school("chicago").
+school("university of alberta").
+school("university of tubingen").
+school("university of wittenberg").
+school("graphic arts").
+school("zürich polytechnic").
+school("mark hopkins").
+school("dartmouth college").
+school("stained glass at bideford art school").
+school("barbizon school").
+school("university of alabama").
+school("padua").
+school("cabanel").
+school("presidency college, madras").
+school("california state university at northridge").
+school("hope college").
+school("bradford school of art").
+school("buffalo state college").
+school("middle tennessee state university").
+school("james madison university").
+school("academy of fine arts, munich").
+school("german charles-ferdinand university in prague").
+school("university of dar es salaam").
+school("tharandt").
+school("giuseppe alberti").
+school("chicago academy of fine arts").
+school("george washington university").
+school("technical university of madrid").
+school("virginia commonwealth university").
+school("emmanuel leutze").
+school("pennsylvania").
+school("st. petersburg").
+school("institute of chemical technology in prague").
+school("athabasca university").
+school("university of southampton").
+school("kerala university").
+school("university of bern").
+school("academy of geneva").
+school("university of nebraska-lincoln").
+school("university of oslo").
+school("university of buffalo").
+school("independent school of art").
+school("florence").
+school("cornelius van der voort").
+school("university of aarhus").
+school("arthur verona").
+school("chelsea college of art").
+school("university of california, san francisco").
+school("self educated").
+school("art faculty").
+school("harvard school of law").
+school("bocconi university").
+school("university of missouri").
+school("medical school").
+school("uc los angeles").
+school("lithography").
+school("georg-august university of göttingen").
+school("brooklyn college").
+school("university of sussex").
+school("university science college").
+school("universidade federal de pernambuco").
+school("universidad de chile").
+school("oklahoma state university").
+school("barthelemy boganda college").
+school("istanbul technical university").
+school("grand valley state university").
+school("state university of new york at cortland").
+school("indian institute of science").
+school("autodidactive painter").
+school("university of witwatersrand").
+school("university of zürich").
+school("bass otis").
+school("indian institute of technology kanpur").
+school("espci").
+school("mckmicken school of design").
+school("state university of new york at brockport").
+school("miami university").
+school("münster academy").
+school("purdue").
+school("pasadena ca.").
+school("universities of berlin").
+school("università cattolica di milano").
+school("gheorghe panaiteanu bardasare").
+school("oriel").
+school("jacob gerritsz cuyp").
+school("madras university").
+school("university of bari").
+school("university of connecticut").
+school("santiago de compostela").
+school("royal college, colombo").
+school("parsons the new school for design").
+school("corcoran school").
+school("kyiv mohyla academy").
+school("magdalen college").
+school("m.f.a. printmaking — the university of texas at austin1988").
+school("free university of poland").
+school("harvard graduate school of design").
+school("hollywood").
+school("poulsbo washington").
+school("university of puget sound").
+school("university of duesseldorf").
+school("andreas achenbach").
+school("university of great falls").
+school("pacific northwest ballet").
+school("escuela de arte de francesco galí").
+school("parson's school of design").
+school("antwerp").
+school("western washington state university").
+school("skowhegan school of painting and sculpture").
+school("st. petersburg university").
+school("leipzig conservatory").
+school("constantin lecca").
+school("university of abidjan").
+school("accademia di belle arti").
+school("m.phil.").
+school("academy of fine art warsaw").
+school("university of california, irvine").
+school("vaganova ballet academy").
+school("university of limerick").
+school("caius college, cambridge").
+school("wellesley college").
+school("nicolae tonitza").
+school("ab").
+school("university of regensburg").
+school("munich academy of fine arts").
+school("self-taughthttp://www.kevinsharkey.com").
+school("clark university").
+school("leningrad state university").
+school("quaid-e-azam university").
+school("mount st. mary's university").
+school("johns hopkins medical school").
+school("flinders university").
+school("woods hole oceanographic institution").
+school("university of northern colorado").
+school("lafayette college").
+school("st. francis xavier university").
+school("peking university").
+school("university of florida").
+school("university of pittsburgh").
+school("harvard university").
+school("university of marburg").
+school("university of mainz").
+school("jerzy nowosielski").
+school("new haven").
+school("nyu").
+school("mcgill university").
+school("nci-nih").
+school("university of california, berkeley").
+school("leiden university").
+school("karnatak university").
+school("university of bonn").
+school("university of vienna").
+school("university of göttingen").
+school("university of birmingham").
+school("sorbonne").
+school("ph.d.").
+school("butler university").
+school("university of chicago").
+school("beaux arts").
+school("collège de france").
+school("new york").
+school("university of greifswald").
+school("south african college").
+school("carolus-duran").
+school("rhode island school of design").
+school("university of budapest").
+school("earlham college").
+school("concordia university").
+school("university of minnesota").
+school("mercer university").
+school("university of utrecht").
+school("budapest university of technology and economics").
+school("clarkson college").
+school("university of stuttgart").
+school("new york academy of art").
+school("university of the philippines").
+school("case western reserve university").
+school("maidstone college of art").
+school("christ church, oxford").
+school("czech academy of sciences").
+school("phd").
+school("hunter college").
+school("rome").
+school("university of cologne").
+school("kingston university").
+school("cooper union").
+school("suny-buffalo").
+school("university of north carolina").
+school("university of geneva").
+school("university of lisbon").
+school("middlebury college").
+school("davidson college").
+school("amherst college").
+school("oregon state university").
+school("washburn university").
+school("baylor college of medicine").
+school("university of tasmania").
+school("swiss federal institute of technology").
+school("university of california at berkeley").
+school("cleveland institute of art").
+school("university of cincinnati").
+school("politecnico di milano").
+school("southern illinois university").
+school("university of sydney").
+school("michigan").
+school("tokyo school of fine arts").
+school("temple u").
+school("dresden academy").
+school("friedrich-wilhelms-universität").
+school("university of santo tomas").
+school("georgetown university").
+school("college of william & mary").
+school("university of bologna").
+school("st john's college, cambridge").
+school("cowles art school").
+school("biola university").
+school("philadelphia's museum school of art").
+school("berlin university").
+school("chen wen hsi").
+school("new york school").
+school("university of novorossisk").
+school("edward von steinle").
+school("carnegie institute in pittsburgh").
+school("marquette university").
+school("institut d'études politiques de paris").
+school("indiana university").
+school("lorenzo ghiberti").
+school("university of kansas").
+school("jawaharlal nehru university").
+school("the queen's college, oxford").
+school("jean-paul laurens").
+school("lehigh university").
+school("university of grenoble").
+school("uk").
+school("pennsylvania state university").
+school("university of aston").
+school("texas a&m university").
+school("lansdown centre for electronic arts").
+school("natural sciences").
+school("new mexico state university").
+school("the university of chicago").
+school("university of tartu").
+school("mit media laboratory").
+school("royal college of science").
+school("jacob adriaensz backer").
+school("jose ruíz").
+school("university of montreal").
+school("imperial college of science and technology").
+school("barnard college").
+school("forman christian college").
+school("nicolas poussin").
+school("osborne naval college").
+school("escola nacional de belas artes").
+school("indianapolis").
+school("johns hopkins university").
+school("nationale des beaux arts").
+school("antoine-jean gros").
+school("georgia institute of technology").
+school("university of california berkeley").
+school("spain").
+school("school of art").
+school("max planck institute for quantum optics").
+school("richard lorenz").
+school("minsk radio technical institute").
+school("louvre").
+school("selwyn college, cambridge").
+school("delft university of technology").
+school("plymouth university").
+school("laney college").
+school("trinity college").
+school("university of madras").
+school("johannes kepler univ. linz").
+school("st martin's school of art").
+school("dortmund university of technology").
+school("cranmer hall").
+school("college of fine art").
+school("georgia tech").
+school("göteborg university").
+school("düsseldorf").
+school("mumbai").
+school("us naval academy").
+school("bolton college of art").
+school("imperial academy of fine arts").
+school("collège henri iv").
+school("ma").
+school("lasalle college of the arts").
+school("university of western australia").
+school("jena").
+school("mipt").
+school("mainly self-taught; briefly: the school of the art institute of chicago").
+school("ithaca college").
+school("pietro del po").
+school("saint martins school of art").
+school("royal academy of art").
+school("matthias de visch").
+school("university of naples federico ii").
+school("canterbury art college").
+school("university of pavia").
+school("aligarh muslim university").
+school("self trained bio").
+school("university of delaware").
+school("friedrich-alexander-universität erlangen-nürnberg").
+school("oberlin conservatory").
+school("frank lloyd wright").
+school("university of tennessee").
+school("hans holbein the elder").
+school("st. lawrence college").
+school("boston college law school").
+school("harvard medical").
+school("huazhong university of science and technology").
+school("university of arkansas").
+school("catholic university of rio de janeiro").
+school("new college, oxford").
+school("temple university").
+school("escuela de artes plasticas y aplicadas").
+school("university of münster").
+school("university of nebraska at omaha").
+school("barcelona").
+school("heidelberg university").
+school("st.petersburg archeologic institute").
+school("picasso").
+school("andy reiss").
+school("carnegie institute of technology").
+school("st. peter's college").
+school("san francisco school of design").
+school("university of kazan").
+school("new york institute of technology").
+school("nova scotia teachers college").
+school("de montfort university").
+school("annamalai university").
+school("city of london polytechnic").
+school("american university").
+school("leger").
+school("albert van ouwater").
+school("kalakshetra").
+school("kiev polytechnic institute").
+school("chennai").
+school("physics").
+school("university of kiev").
+school("lady margaret hall, oxford").
+school("stella elkins tyler school of fine art").
+school("university of alaska fairbanks").
+school("university of california at davis").
+school("university of rome la sapienza").
+school("united states military academy, west point, ny").
+school("los angeles pacific college").
+school("bangkok").
+school("east anglian school of painting and drawing").
+school("michel martin drolling").
+school("south dakota school of mines and technology").
+school("akademie der bildenden künste").
+school("chinese university of hong kong").
+school("tulane law school").
+school("columbia university college of physicians and surgeons").
+school("college of william and mary").
+school("university of sunderland").
+school("japan").
+school("b com").
+school("university of new mexico").
+school("university laval").
+school("b.a. art history").
+school("ph.d").
+school("valparaiso university").
+school("massachusetts institute of technology").
+school("columbia university school of mines").
+school("yale school of art and architecture").
+school("university of strasbourg").
+school("self taught").
+school("stanford university").
+school("university of manchester").
+school("madrid").
+school("madras christian college").
+school("florida state university").
+school("fairfield").
+school("melbourne").
+school("u.s.a").
+school("central school of art").
+school("rochester institute of technology").
+school("stockholm university").
+school("mit").
+school("school of visual arts").
+school("university of iceland").
+school("bournemouth and poole college of art").
+school("russian vaganova technique").
+school("hebrew university of jerusalem").
+school("united states military academy").
+school("monash university").
+school("technical university of darmstadt").
+school("university of oklahoma").
+school("massachusetts college of art").
+school("universidad autonoma de barcelona").
+school("syracuse university college of law").
+school("washington university in saint louis").
+school("yorkshire").
+school("jan gregoor").
+school("jean-léon gérôme").
+school("national gallery school").
+school("brigham young university").
+school("central saint martins college of art & design").
+school("riga polytechnicum").
+school("buffalo").
+school("the johns hopkins university").
+school("university of pázmány péter").
+school("columbia university").
+school("andhra university").
+school("parsons school of design").
+school("pontifical gregorian university").
+school("melbourne national gallery").
+school("ca' foscari university of venice").
+school("m.a.").
+school("royal academy of arts").
+school("university of lund").
+school("duke university").
+school("imperial academy of arts").
+school("minneapolis college of art and design").
+school("no formal training").
+school("silpakorn university").
+school("university of melbourne").
+school("university of pennsylvania").
+school("colorado college").
+school("waseda university").
+school("harvard").
+school("indian agricultural research institute").
+school("eindhoven university of technology").
+school("linfield college").
+school("chicago academy of design").
+school("university of halle-wittenberg").
+school("berkeley").
+school("saint petersburg polytechnical university").
+school("academy of fine arts").
+school("u.s. military academy").
+school("université laval").
+school("université de montréal").
+school("shippensburg university of pennsylvania").
+school("clarkson college of technology").
+school("stuttgart").
+school("university of milan").
+school("royal technical college of charlottenburg").
+school("university of warsaw").
+school("leicester.").
+school("hermann baisch").
+school("paris, france").
+school("domenico pecori").
+school("el colegio de méxico").
+school("technische universität berlin").
+school("west point").
+school("andrea sacchi").
+school("emerson college").
+school("whitney museum of american art independent study program").
+school("mullard space science laboratory").
+school("goldsmiths, university of london").
+school("anderson school").
+school("university of california, santa barbara").
+school("university of pittsburgh school of law").
+school("university of hamburg").
+school("christ's college").
+school("new york state college of ceramics").
+school("ecole superieure d'electricite, paris").
+school("osaka university").
+school("indian institute of technology, kanpur").
+school("péter pázmány university").
+school("walter emerson baum").
+school("kansas university").
+school("union college").
+school("united kingdom").
+school("royal technical college").
+school("paul delaroche").
+school("zvantseva school of drawing").
+school("king's college, cambridge").
+school("st xavier's college").
+school("prague school of art").
+school("father norbert boccius").
+school("university of northern iowa").
+school("university of palermo").
+school("university of the philippines los baños").
+school("shanghai university").
+school("cambridge").
+school("odessa").
+school("holy cross").
+school("lancaster college of art").
+school("norfolk county school").
+school("self-educated").
+school("university of naples").
+school("university of new south wales").
+school("took a foundation course at burnley college of art").
+school("pedro ruiz gallo state university").
+school("radcliffe college").
+school("photography").
+school("st. albans school").
+school("scripps institute of oceanography").
+school("lawrence").
+school("university of california, los angeles").
+school("university of the cape of good hope").
+school("louisiana state university").
+school("brighton college of art").
+school("charles-nicolas cochin the elder").
+school("royal swedish academy of arts").
+school("juilliard school").
+school("university of strassburg").
+school("city").
+school("le monument national").
+school("lincoln university").
+school("royal friedrich-wilhelm institute").
+school("kyoto university").
+school("charles wilson peale").
+school("san jose state university: foundry").
+school("académie de la grande chaumière").
+school("st martin's").
+school("st. john's university").
+school("instituto tecnológico autónomo de méxico").
+school("state academy of photograpic design").
+school("brooks institute of photography").
+school("occidental college").
+school("northeastern university").
+school("kazan university").
+school("saratov university").
+school("colby college").
+school("great britain").
+school("london college of printing").
+school("johns hopkins").
+school("university of massachusetts").
+school("chelsea polytechnic").
+school("czech institute of technology").
+school("university of hannover").
+school("lwów university").
+school("aberystwyth university").
+school("leeds").
+school("austin peay state university").
+school("impressionism").
+school("brooklyn").
+school("north staffordshire polytechnic").
+school("dok-san elementary schoolmoon-il middle school:moon-il high schoolkorea national university of arts").
+school("fuzhou provincial art teacher's training college").
+school("antwerp mannerism").
+school("edinburgh").
+school("brasenose college, oxford").
+school("the reverend").
+school("boston museum of fine arts").
+school("california college of art").
+school("university of bucharest  self taught").
+school("university of bangui").
+school("university of essex").
+school("university of idaho").
+school("university of würzburg").
+school("university of toronto").
+school("san francisco art institute").
+school("university of mississippi").
+school("north carolina state university").
+school("university of tübingen").
+school("goldsmiths").
+school("pennsylvania academy of the fine arts").
+school("university of oxford").
+school("ecole d'art de grenoble").
+school("i.m. sechenov moscow medical academy").
+school("black mountain college").
+school("china university of petroleum").
+school("none").
+school("academie calarossi").
+school("uppsala university").
+school("sunderland college of art").
+school("alexandre sandier").
+school("kees bol").
+school("university of london").
+school("michaelhouse").
+school("chouinard art institute").
+school("royal academy of budapest").
+school("b.a english litt").
+school("pontormo").
+school("california institute of technology").
+school("normale supérieure").
+school("university of manitoba").
+school("university of aberdeen").
+school("coe college").
+school("university of georgia").
+school("emanoil bardasare").
+school("university of freiburg").
+school("royal institute of technology").
+school("university of gottingen").
+school("university of california, berkley").
+school("jesus colleges").
+school("university of oregon").
+school("university of california").
+school("willem de kooning academie").
+school("moscow university").
+school("delhi university").
+school("hudson river school").
+school("academy of arts, madrid").
+school("somerville college, oxford").
+school("trinity college, oxford").
+school("connecticut").
+school("m.s.").
+school("university college, london").
+school("albert bierstadt").
+school("saint petersburg university").
+school("ct").
+school("university of edinburgh").
+school("institute for advanced study of human sexuality").
+school("university of bucharest").
+school("ontario college of art").
+school("royal academy school").
+school("york university").
+school("california state university, east bay").
+school("amoy art teacher's college").
+school("istituto galileo galilei").
+school("san jose state university").
+school("ut").
+school("academy of fine arts, belgrade").
+school("m.d.").
+school("tel aviv university").
+school("melbourne university").
+school("iit kanpur").
+school("united states naval academy").
+school("italy").
+school("university of latvia").
+school("kiev university").
+school("accademia di belle arti di brera").
+school("anu").
+school("bowdoin college").
+school("colorado state university").
+school("universiity of göttingen").
+school("hochschule für gestaltung offenbach").
+school("university of the west indies").
+school("raffles institution").
+school("university of michigan at ann arbor").
+school("apprentice to richard j. miller").
+school("st petersburg").
+school("hornsey college of art").
+school("darmstadt university of technology").
+school("university of queensland").
+school("steklov mathematics institute").
+school("tsinghua").
+school("syracuse university").
+school("lycée louis-le-grand").
+school("imperial college london").
+school("university of calcutta").
+school("chinese academy of socialsciences").
+school("catholic university of nijmegen").
+school("brentwood hs").
+school("oberlin college").
+school("cork school of design").
+school("london school of economics and political science").
+school("wadham college").
+school("philipps university").
+school("dnipropetrovsk state university").
+school("francesco solimena").
+school("chelsea school of art").
+school("university of maryland").
+school("florentine school").
+school("weizmann institute").
+school("paier college of art").
+school("léon pelouse").
+school("technical college of charlottenburg").
+school("johann carl loth").
+school("king’s college").
+school("illinois institute of technology").
+school("nuffield college").
+school("benjamin west").
+school("classical").
+school("north dakota agricultural college").
+school("michigan state university").
+school("edinburgh university").
+school("ohio university").
+school("mit sloan school of management").
+school("southwestern college").
+school("humboldt state university").
+school("unam").
+school("stanley medical college").
+school("northern indiana normal school").
+school("london school of hygiene & tropical medicine").
+school("latin america").
+school("wimbledon").
+school("elmira academy").
+school("university of portsmouth").
+school("kunstakademie düsseldorf").
+school("wheaton college").
+school("ecole centrale paris").
+school("university of adelaide").
+school("loyola university new orleans").
+school("mexico").
+school("cranbrook academy of art").
+school("college of arts and crafts in zagreb").
+school("royal college of arts").
+school("baghdad university").
+school("columbia law school").
+school("utrecht university").
+school("stony brook").
+school("pomona college").
+school("the netherlands").
+school("merton college, oxford").
+school("royal college of surgeons of edinburgh").
+school("university of lomé").
+school("university of arizona").
+school("la trobe university").
+school("padua university").
+school("university of south florida").
+school("benjamin west at the royal academy in london").
+school("georgetown u.").
+school("tufts university").
+school("university of haifa").
+school("xavier mellery").
+school("tomsk state university").
+school("xavier university").
+school("arthur miller").
+school("rwth aachen").
+school("dartmouth").
+school("federal university of rio de janeiro").
+school("universidad complutense").
+school("university of swansea").
+school("m.b.a.").
+school("zagreb").
+school("chicago, illinois").
+school("kaiser wilhelm institute for chemistry").
+school("academie biloul").
+school("los angeles").
+school("max planck institute for biophysical chemistry").
+school("vienna").
+school("collège de nancy").
+school("thomas couture").
+school("peterhouse").
+school("montana state university").
+school("royal anthropological institute").
+school("wadham college, oxford").
+school("rheinische friedrich-wilhelms-universität bonn").
+school("thomas say").
+school("st catharine's college").
+school("manchester college").
+school("warsaw conservatory").
+school("lahore university of management sciences").
+school("case school for applied sciences").
+school("university of kerala").
+school("reed kay").
+school("trinity college dublin").
+school("eberhardt-karls university").
+school("isleworth polytechnic university").
+school("edward savage in new york").
+school("robert gordon's college").
+school("eastern michigan university").
+school("washington state college").
+school("humboldt universität zu berlin").
+school("furman university").
+school("pembroke college").
+school("college of orange").
+school("london school of economics").
+school("vanderbilt university").
+school("architecture").
+school("maryland").
+school("the ruskin school of drawing and fine art").
+school("tyler school of art").
+school("royal academy").
+school("ba").
+school("duke university school of medicine").
+school("lehman college").
+school("university of wyoming").
+school("university of westminster").
+school("university college cork").
+school("new haven, connecticut").
+school("wake forest university").
+school("eth zürich").
+school("medical school of rio de janeiro").
+school("mfa from boston university").
+school("clare college, cambridge").
+school("c.w. post").
+school("university of denver").
+school("university of south carolina").
+school("tata institute for fundamental research").
+school("carnegie mellon university").
+school("art student's league in new york").
+school("bridgewater state college").
+school("university of paris").
+school("capitol college of pharmacy").
+school("vocational school").
+school("liceo de manila").
+school("memorial university of newfoundland").
+school("m.a bharatanatyam").
+school("budapest").
+school("california school of fine arts").
+school("trinity college, dublin").
+school("agra university").
+school("university of south dakota").
+school("the slade").
+school("uc berkeley").
+school("cuba").
+school("university of illinois").
+school("new york university").
+school("university of north carolina, chapel hill").
+school("university of uppsala").
+school("university of indiana").
+school("providence college").
+school("hunter college of the city university of new york").
+school("technische hochschule").
+school("ny").
+school("art students league").
+school("new york city").
+school("liu kang").
+school("st. joseph's seminary, dunwoodie").
+school("university of louisville").
+school("appleby").
+school("ecole des beaux arts").
+school("volgograd pedagogical university").
+school("franklin college").
+school("virginia tech").
+school("xiamen academy of fine art").
+school("university of durham").
+school("university of north carolina at chapel hill").
+school("pan tianshou").
+school("beograd").
+school("bangalore").
+school("gustaf werner institute for nuclear chemistry").
+school("emory university").
+school("jepson art institute").
+school("college of engineering, guindy").
+school("art institute of chicago").
+school("centre college").
+school("royal college of art").
+school("university college").
+school("university of leeds").
+school("self–taught").
+school("bfa").
+school("hms britannia").
+school("college of the holy cross").
+school("university of bath").
+school("dedham, essex").
+school("university of central lancashire").
+school("dresden art academy").
+school("university of prague").
+school("pontifical catholic university of peru").
+school("cistercian college, roscrea").
+school("st. john's college, cambridge").
+school("charles university in prague").
+school("grey college").
+school("university of houston").
+school("univerzita karlova").
+school("gewerbeinstitut").
+school("francesco ruschi").
+school("idaho state university").
+school("usa").
+school("the cooper union").
+school("antonio cortès").
+school("nova scotia college of art and design").
+school("hans hofmann").
+school("university of western sydney").
+school("university of frankfurt").
+school("university of tampa").
+school("technical university of budapest").
+school("james weeks").
+school("argentina").
+school("national university of san marcos").
+school("university of saint petersburg").
+school("sir cedric morris").
+school("rijksakademie").
+school("francesco fernandi").
+school("art").
+school("one year in a swiss art school as a youth").
+school("general motors institute").
+school("new york university school of law").
+school("university of bourges").
+school("tokio university").
+school("bangalore medical college").
+school("san francisco").
+school("iowa wesleyan college").
+school("royal netherlands naval college").
+school("göttingen university").
+school("arlington nelson lindenmuth").
+school("punjab university").
+school("corpus christi college, cambridge").
+school("franz stuck").
+school("gheorghe şiller").
+school("graduate school of business").
+school("university of bristol").
+school("national southwestern associated university").
+school("berlin").
+school("carnegie tech").
+school("university of sofia").
+school("nankai university").
+school("hussian school of art").
+school("orlando gray wales").
+school("max gimblett").
+school("jaswant college").
+school("the new college, chennai").
+school("ks; yale university").
+school("academy of fine arts, vienna").
+school("friedrich schiller university of jena").
+school("egyptian military academy").
+school("national college,bangalore").
+school("university of maine").
+school("utah state university").
+school("escuela de bellas artes de la llotja").
+school("dutch ministry of education").
+school("william henry jackson").
+school("north dakota state university").
+school("polytechnic university of new york").
+school("university of tehran").
+school("gissen university").
+school("princeton").
+school("school of visual concepts").
+school("moscow engineering physics institute").
+school("raman research institute").
+school("university of omaha").
+school("pratique des haute études").
+school("sir john cass college").
+school("university of kentucky").
+school("iceland academy of the arts").
+school("stourbridge").
+school("king's college school").
+school("south bank university").
+school("mariotto albertinelli").
+school("zoology").
+school("ccny").
+school("bryant & stratton college").
+school("fordham").
+school("iona college").
+school("english literature").
+school("royal frederick university").
+school("freiburg").
+school("max-planck-institute for biophysical chemistry").
+school("saint paul, minnesota").
+school("novorossiysk university").
+school("münden").
+school("queen mary college").
+school("pennsylvania academy").
+school("florida atlantic university").
+school("tama art university").
+school("königliche technische hochschule").
+school("grace hartigan").
+school("dusseldorf school").
+school("college of engineering, pune").
+school("macalester college").
+school("university of düsseldorf").
+school("mines").
+school("northwestern university kellogg school of management").
+school("institute of design iit").
+school("academia de san carlos").
+school("françois de troy").
+school("cumberland school of law").
+school("merz akademie stuttgart").
+school("max planck institute for biological cybernetics").
+school("seattle").
+school("collège louis-le-grand").
+school("polytechnique").
+school("farnham school of art").
+school("st. lawrence university").
+school("cambridge university").
+school("calcutta university").
+school("national academy of design").
+school("oxford university").
+school("university of rochester").
+school("national autonomous university of mexico").
+school("university of michigan").
+school("presidency college, kolkata").
+school("university of connecticut school of law").
+school("heeswijk").
+school("cleveland school of art").
+school("yerevan medical institute").
+school("university of erlangen").
+school("oxford").
+school("university of giessen").
+school("saint mary's university").
+school("queen's university").
+school("university of tulsa").
+school("technion – israel institute of technology").
+school("michel marie charles verlat").
+school("spokane university").
+school("george bridgman").
+school("university of phoenix").
+school("pratt institute").
+school("carnegie mellon").
+school("freiberg university of mining and technology").
+school("university of nebraska").
+school("university of innsbruck  technical university of vienna").
+school("johannes flintoe").
+school("university of washington").
+school("academy of fine arts in prague").
+school("u.s.").
+school("umist").
+school("washington state university").
+school("boston university").
+school("washington").
+school("fordham university").
+school("johann wilhelm schirmer").
+school("gerald moira").
+school("university of gießen").
+school("syracuse school of art").
+school("university of north dakota").
+school("drury college").
+school("interactive telecommunications program").
+school("beaux-arts institute of design").
+school("theodor aman").
+school("rensselaer polytechnic institute").
+school("university of miami").
+school("ecole polytechnique").
+school("st john's college").
+school("technische hochschule karlsruhe").
+school("indian institute of technology").
+school("academie julian").
+school("rice university").
+school("university of rostock").
+school("université paris iv-sorbonne").
+school("slade school of art").
+school("brandeis university").
+school("university of maryland, college park").
+school("royal academy schools").
+school("university of saskatchewan").
+school("university of colorado at boulder").
+school("durham university").
+school("ucsd").
+school("hague academy of international law").
+school("northern arizona university").
+school("university of texas").
+school("city college of new york").
+school("yale law school").
+school("university of massachusetts, amherst").
+school("school of the art institute of chicago").
+school("purdue university").
+school("valand school of fine arts").
+school("bronx high school of science").
+school("leningrad").
+school("suny").
+school("nationale supérieure des beaux-arts").
+school("tsinghua university").
+school("imperial college of science").
+school("harvard school of public health").
+school("university of münich").
+school("university of delhi").
+school("school of the museum of fine arts, boston").
+school("france").
+school("kansas state agricultural college").
+school("allegheny college").
+school("hungarian academy of sciences").
+school("university of utah").
+school("central technical school").
+school("painting").
+school("j.d.").
+school("san jose state college").
+school("university of california at santa barbara").
+school("stevens institute of technology").
+school("university of linz").
+school("william-adolphe bouguereau").
+school("berklee college of music summer school").
+school("galicia").
+school("university of warwick").
+school("university of wurzburg").
+school("university of michigan, ann arbor").
+school("cayetano heredia university").
+school("leningradsky university").
+school("académie colarossi").
+school("karl friedrich lessing").
+school("exeter college, oxford university").
+school("university of breslau").
+school("university of london external programme").
+school("chile").
+school("design at the mbam").
+school("northwest college of art").
+school("westminster school of art").
+school("technical university at brunswick").
+school("charles university").
+school("national taiwan university").
+school("university of illinois college of dentistry").
+school("kamal al-molk ghafarri").
+school("delft university").
+school("maimonides university").
+school("andrés peraza").
+school("osgoode hall law school").
+school("balliol college, oxford").
+school("amherst").
+school("berlin academy of fine arts").
+school("royal college of art, london").
+school("university of vermont").
+school("penn state university").
+school("academy of arts").
+school("wesleyan university").
+school("university of buenos aires").
+school("michigan college of mining and technology").
+school("university of basel").
+school("mcgill conservatory in montreal canada").
+school("bombay university").
+school("fashion institute of technology").
+school("rotterdam university").
+school("austria").
+school("universität königsberg").
+school("tatsunoko pro").
+school("university of national and world economy").
+school("yeshiva university").
+school("august allebé").
+school("georg-august university").
+school("harvey mudd college").
+school("serantes").
+school("american ballet theatre").
+school("eidgenössische technische hochschule zürich").
+school("university of maryland, baltimore").
+school("aligarh university").
+school("technische hochschule of stuttgart").
+school("academy").
+school("b. a.").
+school("vše").
+school("peterhouse, cambridge").
+school("samford university").
+school("louisiana tech university").
+school("m.b.a").
+school("truro").
+school("kansas state university").
+school("spam").
+school("university of tokyo").
+school("sydney").
+school("university of illinois, urbana-champaign").
+school("university of alabama at birmingham").
+school("hart hall, oxford").
+school("university of western ontario").
+school("lviv institute of applied art").
+school("salt lake city").
+school("alfred university").
+school("palma il giovane").
+school("university of illinois at chicago").
+school("russia").
+school("self-taught;").
+school("bynam shaw school of art").
+school("st catherine's college, oxford").
+school("newnham college, cambridge").
+school("giulio monteverde").
+school("a.b.").
+school("warsaw school of fine arts").
+school("pieter potter").
+school("university of nottingham").
+school("royal mining school").
+school("pendleton").
+school("m.f.h. de haas").
+school("university of tokyo, school of science").
+school("middle east technical university").
+school("yale college").
+school("st johns wood art schools").
+school("liverpool john moores").
+school("john f. kennedy school of government").
+school("academia nacional de bellas artes").
+school("paul h. nitze school of advanced international studies").
+school("university of hawai'i at manoa").
+school("raffles college").
+school("nottingham trent university").
+school("shanghai college of art").
+school("albertina university of königsberg").
+school("dickinson college").
+school("university of amsterdam").
+school("ucsc").
+school("nova scotia college of art and design university").
+school("ecole des beaux-art, paris").
+school("newcastle university").
+school("guilds art school").
+school("university of southern california").
+school("fernand cormon").
+school("art center college of design").
+school("royal academy london").
+school("glasgow school of art").
+school("vancouver school of art").
+school("harvard college").
+school("ankara university").
+school("school of american ballet").
+school("university of pisa").
+school("yale university").
+school("harvard graduate school of education").
+school("university of halle").
+school("technion").
+school("habilitation").
+school("fernand léger").
+school("university of munich").
+school("ucla").
+school("titian").
+school("tbilisi state university").
+school("rutgers university").
+school("landau institute for theoretical physics").
+school("julian ashton school").
+school("goizueta business school").
+school("charles chaplin").
+school("barney bright").
+school("philadelphia college").
+school("harvard medical school").
+school("stockholm").
+school("academia de san fernando").
+school("caltech").
+school("university of leiden").
+school("semana de arte moderna").
+school("the art barn").
+school("lisbon").
+school("presidency college").
+school("jesus college, oxford").
+school("central university of venezuela").
+school("university of heidelberg").
+school("mines de paris").
+school("dresden").
+school("utah valley university").
+school("otis parsons art institute").
+school("university of texas at austin").
+school("nagoya university").
+school("leonardo da vinci").
+school("santa barbara").
+school("albert ludwigs university").
+school("hans gude").
+school("b.f.a. painting — brigham young university").
+school("haverford college").
+school("morgantown, wv").
+school("eth zurich").
+school("birmingham school of art").
+school("cincinnati").
+school("university of moratuwa").
+school("albany medical college").
+school("university of turin").
+school("suny binghamton").
+school("ludwig maximilians university of munich").
+school("guy's hospital").
+school("maryland institute college of art").
+school("the american college in madurai").
+school("university of california - berkeley").
+school("university of dortmund").
+school("ecole des beaux-arts").
+school("kunste").
+school("sant'anna school of advanced studies").
+school("collège des quatre-nations").
+school("belgrade").
+school("mexico city").
+school("graphic design").
+school("erfurt").
+school("dalhousie university").
+school("nationale supérieure d'arts et métiers").
+school("stanford graduate school of business").
+school("wayne state university").
+school("auburn university").
+school("santiago").
+school("university of newcastle").
+school("university of zurich").
+school("kiev art school").
+school("university of moscow").
+school("perugino").
+school("exeter university").
+school("university of dorpat").
+school("eureka college").
+school("towson state college").
+school("university of karlsruhe").
+school("master of arts").
+school("otis art institute").
+school("gonville and caius college").
+school("university of stockholm").
+school("vrije universiteit amsterdam").
+school("edward johnston").
+school("virginia military institute").
+school("university of ljubljana").
+school("st. petersburg society of art supporters").
+school("afi conservatory").
+school("harbin military engineering institute").
+school("eilif peterssen").
+school("university college school").
+school("françois-édouard picot").
+school("antioch college").
+school("coventry university").
+school("malay college kuala kangsar").
+school("st. louis school of design").
+school("school of chemistry and physics of the city of paris").
+school("piero di cosimo").
+school("israel").
+school("university of peradeniya").
+school("technical university of vienna").
+school("san fernando school of fine arts").
+school("london college of fashion").
+school("lund university").
+school("philip guston").
+school("university of hawaii at manoa").
+school("joseph bernard").
+school("nicolaus copernicus university in toruń").
+school("tata institute of fundamental research").
+school("trinity university").
+school("university of belgrade").
+school("university of auckland").
+school("chicago art institute").
+school("chelsea college of art and design").
+school("ludwig-maximilians university").
+school("university of east anglia").
+school("the art center college of design").
+school("collège de meaux").
+school("josef albers").
+school("san francisco state university").
+school("newark school of fine & industrial art").
+school("university of bordeaux").
+school("anglia ruskin university").
+school("nova scotia").
+school("netherlands").
+school("university of guadalajara").
+school("slovak polytechnic university").
+school("ussr academy of sciences").
+school("ecole des arts appliques").
+school("geneva").
+school("lindau-am-bodensee").
+school("orazio gentileschi").
+school("odessa state art academy").
+school("fanshawe college").
+school("victor ullate").
+school("university of harderwijk").
+school("medical college of virginia").
+school("whitman college").
+school("ambrosius bosschaert").
+school("jules tavernier").
+school("product design").
+school("spokane").
+school("hebrew university").
+school("franz storck").
+school("m.s.w.").
+school("saxony").
+school("golden gate university").
+school("technische hochschule berlin").
+school("novosibirsk state university").
+school("manchester university").
+school("gheorghe popovici").
+school("universität leipzig").
+school("spb etu leti").
+school("indian institute of social welfare and business management").
+school("university of virginia school of law").
+school("college of advanced technology").
+school("frank duveneck").
+school("patrick demarchelier").
+school("no formal art training").
+school("university college dublin").
+school("royal institute of science").
+school("virgil fox").
+school("university of hawaii").
+school("jack shadbolt").
+school("central saint martins college of art and design").
+school("poland").
+school("german institute of technology").
+school("rehovot").
+school("washington allston").
+school("luther college").
+school("epsom college of art").
+school("sacramento state").
+school("university of ottawa").
+school("tifr").
+school("vassar").
+school("the art institute of chicago").
+school("georgia").
+school("winchester college").
+school("oslo university").
+school("accademia di brera").
+school("usul al-din college").
+school("art history").
+school("case institute of technology").
+school("university of new brunswick").
+school("university of montana").
+school("banaras hindu university").
+school("five years education").
+school("toby e. rosenthal").
+school("m.b. grekov rostov artistic school").
+school("professor alvaro fontana").
+school("university of hildesheim").
+school("dublin").
+school("athens school of fine arts").
+school("boston university law school").

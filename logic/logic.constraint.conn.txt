@@ -1,0 +1,26 @@
+conn("/location/location/contains",SID,E1,P1,E2,P2) :- dep(SID,"nmod",E2,P2,E1,P1).
+conn("/location/location/contains",SID,E1,P1,E2,P2) :- dep(SID,"appos",E2,P2,E1,P1).
+conn("/location/location/contains",SID,E1,P1,E2,P2) :- dep(SID,"nmod",E2,P2,X3,P3),dep(SID,"appos",X3,P3,E1,P1).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+conn("/people/person/profession",SID,E1,P1,E2,P2) :- dep(SID,"appos",E1,P1,E2,P2).
+conn("/people/person/profession",SID,E1,P1,E2,P2) :- dep(SID,"appos",E2,P2,E1,P1).
+conn("/people/person/profession",SID,E1,P1,E2,P2) :- dep(SID,"compound",E1,P1,E2,P2).
+conn("/people/person/profession",SID,E1,P1,E2,P2) :- dep(SID,"dobj",E2,P2,E1,P1).
+conn("/people/person/profession",SID,E1,P1,E2,P2) :- dep(SID,"nsubj",E2,P2,E1,P1).
+conn("/people/person/profession",SID,E1,P1,E2,P2) :- dep(SID,"nmod:pass",E2,P2,E1,P1).
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+conn(S,E1,P1,E2,P2) :- dep(S,D,E1,P1,E2,P2).
+conn(S,E1,P1,E2,P2) :- dep(S,D,E2,P2,E1,P1).
+conn(S,E1,P1,E2,P2) :- dep(S,D1,E1,P1,X3,P3),dep(S,D2,X3,P3,E2,P2).
+conn(S,E1,P1,E2,P2) :- dep(S,D1,E2,P2,X3,P3),dep(S,D2,X3,P3,E1,P1).
+
+conn(SID,E1,P1,E2,P2,1) :- dep(SID,DEP,E1,P1,E2,P2).
+conn(SID,E1,P1,E2,P2,L+1) :- conn(SID,E1,P1,X1,PX1,L),dep(SID,DEP,X1,PX1,E2,P2),L<5.
+conn(SID,E1,P1,E2,P2,L+1) :- conn(SID,X1,PX1,E2,P2,L),dep(SID,DEP,E1,P1,X1,PX1),L<5.
+conn(SID,E1,P1,E2,P2) :- conn(SID,E1,P1,E2,P2,L).
