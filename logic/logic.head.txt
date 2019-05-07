@@ -1,0 +1,12 @@
+#show label/6.
+
+basic_label(R,S,E1,P1,E2,P2,T1,T2) :- rel(R,FE1,FE2),ner(S,E1,P1,T1),ner(S,E2,P2,T2),sim(FE1,E1),sim(FE2,E2).
+
+basic_label(R,S) :- basic_label(R,S,E1,P1,E2,P2,T1,T2).
+key(R,L) :- key(R,L,POS).
+key_in_sent(R,S) :- key(R,L),lemma(S,W,P,L),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+key_in_path(R,S) :- key(R,L),lemma(S,W,P,L),inpath(S,E1,P1,E2,P2,W,P),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+type_sat(R,S) :- type(R,T1,T2),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+conn_sat(R,S) :- conn(R,S,E1,P1,E2,P2),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+
+label(R,S,E1,P1,E2,P2) :- basic_label(R,S,E1,P1,E2,P2,T1,T2).

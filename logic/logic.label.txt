@@ -1,0 +1,990 @@
+label("/people/deceased_person/cause_of_death","1748194;3","yukio mishima","suicide").
+label("/people/deceased_person/cause_of_death","1721880;2","kenneth lee boyd","lethal injection").
+label("/people/deceased_person/cause_of_death","1662385;19","patrick dennehy","murder").
+label("/people/deceased_person/cause_of_death","1704244;53","assia wevill","suicide").
+label("/people/deceased_person/cause_of_death","1800025;215","jim jones","suicide").
+label("/people/deceased_person/cause_of_death","1803566;218","jim jones","suicide").
+label("/people/deceased_person/cause_of_death","1653054;49","jack crystal","heart attack").
+label("/people/deceased_person/cause_of_death","1770357;23","marco pantani","cocaine overdose").
+label("/people/deceased_person/cause_of_death","1772994;30","marco pantani","drug overdose").
+label("/people/deceased_person/cause_of_death","1781625;1","jennifer moore","murder").
+label("/people/deceased_person/cause_of_death","1786245;9","patsy ramsey","ovarian cancer").
+label("/people/deceased_person/cause_of_death","1721880;10","shawn paul humphries","lethal injection").
+label("/people/deceased_person/cause_of_death","1692059;2","john garang","helicopter crash").
+label("/location/location/contains","1642652;2","poland","warsaw").
+label("/location/location/contains","1789010;6","spain","ibiza").
+label("/location/location/contains","1702846;9","manitoba","winnipeg").
+label("/location/location/contains","1657005;5","queens","jackson heights").
+label("/location/location/contains","1672654;39","queens","calvary cemetery").
+label("/location/location/contains","1814755;5","ohio","columbus").
+label("/location/location/contains","1643523;20","utah","clinton").
+label("/location/location/contains","1699595;30","new orleans","french quarter").
+label("/location/location/contains","1718733;17","worcester","clark university").
+label("/location/location/contains","1670925;14","estes park","cheley colorado camps").
+label("/location/location/contains","1708190;3","brooklyn","williamsburg").
+label("/location/location/contains","1772709;16","brooklyn","williamsburg").
+label("/location/location/contains","1723305;8","brooklyn","east new york").
+label("/location/location/contains","1743892;2","ontario","grimsby").
+label("/location/location/contains","1809731;2","memphis","autozone park").
+label("/location/location/contains","1684651;16","valencia","california institute of the arts").
+label("/location/location/contains","1743685;26","asia","singapore").
+label("/location/location/contains","1750270;4","idaho","hailey").
+label("/location/location/contains","1763218;46","mexico","juárez").
+label("/location/location/contains","1808194;3","england","oxfordshire").
+label("/location/location/contains","1806279;42","new york city","bronx").
+label("/location/location/contains","1662869;2","germany","munich").
+label("/location/location/contains","1694570;87","italy","siena").
+label("/location/location/contains","1648004;15","new york","brooklyn").
+label("/location/location/contains","1763388;3","queens","astoria").
+label("/location/location/contains","1674926;25","nassau county","rockville centre").
+label("/location/location/contains","1651406;9","mercer county","princeton").
+label("/location/location/contains","1671542;10","new york","webster hall").
+label("/location/location/contains","1705180;46","new york","museum of modern art").
+label("/people/deceased_person/cause_of_death","1783640;18","heather farr","breast cancer").
+label("/people/deceased_person/cause_of_death","1730537;2","urano teixeira da matta bacellar","suicide").
+label("/people/deceased_person/cause_of_death","1748962;2","imette st. guillen","murder").
+label("/people/deceased_person/cause_of_death","1746526;2","imette st. guillen","murder").
+label("/organization/organization/founders","1659488;8","newmarket films","chris ball").
+label("/organization/organization/founders","1715588;4","guardian angels","curtis sliwa").
+label("/organization/organization/founders","1804495;8","cnn","ted turner").
+label("/organization/organization/founders","1683615;14","napster","shawn fanning").
+label("/organization/organization/founders","1805291;3","wiener werkstätte","koloman moser").
+label("/organization/organization/founders","1644834;5","sundance institute","robert redford").
+label("/organization/organization/founders","1722218;16","sundance institute","robert redford").
+label("/organization/organization/founders","1722434;24","ebay","pierre omidyar").
+label("/people/deceased_person/cause_of_death","1650200;8","eric harris","suicide").
+label("/people/deceased_person/cause_of_death","1772485;7","mark rothko","suicide").
+label("/people/deceased_person/cause_of_death","1718703;26","peter jennings","lung cancer").
+label("/people/deceased_person/cause_of_death","1727484;6","peter jennings","lung cancer").
+label("/people/deceased_person/cause_of_death","1703509;18","peter jennings","lung cancer").
+label("/people/deceased_person/cause_of_death","1732901;1","clarence ray allen","capital punishment").
+label("/people/deceased_person/cause_of_death","1646339;1","ephraim kishon","heart attack").
+label("/people/deceased_person/cause_of_death","1661778;17","theo van gogh","murder").
+label("/people/deceased_person/cause_of_death","1802882;1","saddam hussein","hanging").
+label("/people/deceased_person/cause_of_death","1815678;1","saddam hussein","hanging").
+label("/people/deceased_person/cause_of_death","1815680;1","saddam hussein","hanging").
+label("/people/deceased_person/cause_of_death","1752004;6","john spencer","heart attack").
+label("/people/deceased_person/cause_of_death","1791135;10","john gregory dunne","heart attack").
+label("/people/deceased_person/cause_of_death","1801789;26","william styron","pneumonia").
+label("/people/deceased_person/cause_of_death","1811668;2","georgia gibbs","leukemia").
+label("/people/deceased_person/cause_of_death","1708120;2","william j. ruane","lung cancer").
+label("/people/deceased_person/cause_of_death","1708636;2","william j. ruane","lung cancer").
+label("/people/deceased_person/cause_of_death","1650312;4","najai turpin","suicide").
+label("/people/deceased_person/cause_of_death","1659052;4","najai turpin","suicide").
+label("/people/deceased_person/cause_of_death","1659079;18","najai turpin","suicide").
+label("/people/deceased_person/cause_of_death","1641833;9","ken caminiti","drug overdose").
+label("/people/deceased_person/cause_of_death","1701104;170","sarah kane","suicide").
+label("/people/deceased_person/cause_of_death","1653100;47","dorothy loudon","cancer").
+label("/people/deceased_person/cause_of_death","1754175;24","rajkumar","cardiac arrest").
+label("/people/deceased_person/cause_of_death","1655552;13","zelimkhan yandarbiyev","car bomb").
+label("/people/deceased_person/cause_of_death","1671236;41","orlando letelier","car bomb").
+label("/people/deceased_person/cause_of_death","1769956;25","nelson rockefeller","heart attack").
+label("/people/deceased_person/cause_of_death","1654152;17","rick mahler","heart attack").
+label("/people/deceased_person/cause_of_death","1666135;1","roberto calvi","murder").
+label("/people/deceased_person/cause_of_death","1753471;28","ken kaess","cancer").
+label("/organization/organization/founders","1698248;4","kamehameha schools","bernice pauahi bishop").
+label("/organization/organization/founders","1810722;7","omidyar network","pierre omidyar").
+label("/organization/organization/founders","1653904;12","dyson","james dyson").
+label("/organization/organization/founders","1737355;85","armadillo aerospace","john carmack").
+label("/organization/organization/founders","1788245;4","shelburne museum","electra havemeyer webb").
+label("/organization/organization/founders","1642923;4","paypal","elon musk").
+label("/organization/organization/founders","1761694;2","amway","jay van andel").
+label("/organization/organization/founders","1762848;34","democratic leadership council","al from").
+label("/organization/organization/founders","1793038;31","brothers to the rescue","josé basulto").
+label("/organization/organization/founders","1752143;43","careers through culinary arts program","richard grausman").
+label("org:founded_by","1712489;1","wal-mart","sam walton").
+label("org:founded_by","1711403;4","wal-mart","sam walton").
+label("org:founded_by","1759181;34","wal-mart","sam walton").
+label("org:founded_by","1770561;23","wal-mart","sam walton").
+label("org:founded_by","1775680;18","wal-mart","sam walton").
+label("org:founded_by","1785298;16","wal-mart","sam walton").
+label("org:founded_by","1780244;17","wal-mart","sam walton").
+label("org:founded_by","1788381;3","wal-mart","sam walton").
+label("org:founded_by","1799873;53","wal-mart","sam walton").
+label("org:founded_by","1652841;9","martha stewart living omnimedia","martha stewart").
+label("org:founded_by","1751765;1","air america radio","sheldon drobny").
+label("org:founded_by","1763394;46","jehovah's witnesses","charles taze russell").
+label("org:founded_by","1667101;21","xlibris","john feldcamp").
+label("org:founded_by","1648755;3","toyota","kiichiro toyoda").
+label("org:founded_by","1815581;18","blackstone group","stephen a. schwarzman").
+label("/location/location/contains","3214038;18","germany","karlsruhe").
+label("/location/location/contains","24124878;1","germany","nordfriesland").
+label("/location/location/contains","13264082;2","germany","saxony-anhalt").
+label("/location/location/contains","9642419;7","germany","aachen").
+label("/location/location/contains","6791524;2","sumter","university of south carolina sumter").
+label("/location/location/contains","23592099;2","czech republic","central bohemian region").
+label("/location/location/contains","30712631;6","georgia","atlanta").
+label("/location/location/contains","12374926;2","romania","valea aurului river").
+label("/location/location/contains","43973629;2","manitoba","winnipeg").
+label("/location/location/contains","26626312;26","prague","vyšehrad cemetery").
+label("/location/location/contains","9245579;3","ohio","chillicothe").
+label("/location/location/contains","35623366;2","alberta","edmonton").
+label("/location/location/contains","22743922;10","manchester","royal northern college of music").
+label("/location/location/contains","705248;21","chile","valparaíso").
+label("/location/location/contains","1547718;2","scotland","edinburgh").
+label("/location/location/contains","39707211;3","scotland","aberdeen").
+label("/location/location/contains","15111918;3","poland","włoszczowa county").
+label("/location/location/contains","18966512;2","poland","opoczno county").
+label("/location/location/contains","18326287;2","poland","gmina skrwilno").
+label("/location/location/contains","1474520;1","new jersey","monmouth county").
+label("/location/location/contains","35627110;4","virginia","alexandria").
+label("/location/location/contains","43768911;174","virginia","norfolk").
+label("/location/location/contains","6179268;18","indiana","jasper").
+label("/location/location/contains","18029298;2","indiana","south bend").
+label("/location/location/contains","34080012;81","honshu","shimane prefecture").
+label("/location/location/contains","15672801;2","jura","esserval-combe").
+label("/location/location/contains","37582046;3","california","la jolla").
+label("/location/location/contains","3499662;3","california","los angeles county").
+label("/location/location/contains","107669;1","california","pomona").
+label("/location/location/contains","2386228;1","maine","bristol").
+label("/location/location/contains","10636584;21","warrington","halliwell jones stadium").
+label("/location/location/contains","1013167;83","uttarakhand","pithoragarh").
+label("/location/location/contains","11690862;2","arizona","clemenceau").
+label("/location/location/contains","1896977;29","ontario","middle island").
+label("/location/location/contains","24945768;2","canada","british columbia").
+label("/location/location/contains","7650476;7","connecticut","hartford").
+label("/location/location/contains","39558195;7","connecticut","ridgefield").
+label("/location/location/contains","19014219;3","connecticut","stamford").
+label("/location/location/contains","19020386;2","lublin voivodeship","włodawa county").
+label("/location/location/contains","10971910;2","japan","tokyo").
+label("/location/location/contains","39938172;6","japan","tokyo").
+label("/location/location/contains","33539789;3","wisconsin","newton").
+label("/location/location/contains","34647604;3","australia","adelaide").
+label("/location/location/contains","5343576;14","oklahoma","tulsa").
+label("/location/location/contains","543792;3","sicily","messina").
+label("/location/location/contains","7059877;2","buenos aires province","laprida partido").
+label("/location/location/contains","2375035;5","west africa","togo").
+label("/location/location/contains","26159608;26","london","wembley stadium").
+label("/location/location/contains","16021324;2","sarthe","la fontaine-saint-martin").
+label("/location/location/contains","3661113;9","konya","selçuk university").
+label("/location/location/contains","2291788;4","pennsylvania","philadelphia").
+label("/location/location/contains","38802277;3","mexico","allende").
+label("/location/location/contains","5145885;5","cape town","diocesan college").
+label("/location/location/contains","15921986;2","nebraska","antelope county").
+label("/location/location/contains","19578093;3","texas","los fresnos").
+label("/location/location/contains","97452;12","texas","franklin").
+label("/location/location/contains","28718247;2","north carolina","st. john's episcopal church").
+label("/location/location/contains","38886993;2","north carolina","house").
+label("org:founded_by","1676753;38","blackstone group","stephen a. schwarzman").
+label("org:founded_by","1674061;11","stan lee media","peter f. paul").
+label("org:founded_by","1688203;2","open society institute","george soros").
+label("org:founded_by","1666182;4","open society institute","george soros").
+label("org:founded_by","1651488;11","trinity broadcasting network","paul crouch").
+label("org:founded_by","1698158;6","guardian angels","curtis sliwa").
+label("org:founded_by","1698474;4","guardian angels","curtis sliwa").
+label("org:founded_by","1700417;1","guardian angels","curtis sliwa").
+label("org:founded_by","1705423;13","guardian angels","curtis sliwa").
+label("org:founded_by","1651602;8","guardian angels","curtis sliwa").
+label("org:founded_by","1700110;1","guardian angels","curtis sliwa").
+label("org:founded_by","1745086;17","guardian angels","curtis sliwa").
+label("org:founded_by","1741795;22","guardian angels","curtis sliwa").
+label("org:founded_by","1747393;19","guardian angels","curtis sliwa").
+label("org:founded_by","1743351;19","guardian angels","curtis sliwa").
+label("org:founded_by","1744337;44","guardian angels","curtis sliwa").
+label("org:founded_by","1745794;7","guardian angels","curtis sliwa").
+label("org:founded_by","1777787;3","guardian angels","curtis sliwa").
+label("org:founded_by","1786301;1","guardian angels","curtis sliwa").
+label("org:founded_by","1783578;2","guardian angels","curtis sliwa").
+label("org:founded_by","1793040;6","guardian angels","curtis sliwa").
+label("org:founded_by","1790301;25","guardian angels","curtis sliwa").
+label("org:founded_by","1789293;6","guardian angels","curtis sliwa").
+label("org:founded_by","1730731;28","wal-mart","sam walton").
+label("org:founded_by","1699131;25","wal-mart","sam walton").
+label("org:founded_by","1653441;4","wal-mart","sam walton").
+label("/organization/organization/founders","41471583;2","islamic defenders front","muhammad rizieq shihab").
+label("/organization/organization/founders","92407;60","danga interactive","brad fitzpatrick").
+label("/organization/organization/founders","2380393;14","sprint corporation","jacob brown").
+label("/organization/organization/founders","5043544;17","whig party","henry clay").
+label("/organization/organization/founders","42469031;2","portuguese socialist party","josé fontana").
+label("/organization/organization/founders","3400327;2","virgin group","nik powell").
+label("/organization/organization/founders","3219596;2","cosmos club","john wesley powell").
+label("/organization/organization/founders","21285936;104","green mountain school","nooruddeen durkee").
+label("/organization/organization/founders","39248493;2","palmer united party","clive palmer").
+label("/organization/organization/founders","53713;3","anglo american plc","ernest oppenheimer").
+label("/organization/organization/founders","17873059;2","fondation chirac","jacques chirac").
+label("/organization/organization/founders","3534040;4","mcdonnell aircraft","james smith mcdonnell").
+label("/organization/organization/founders","2938189;4","orange games","arjan brussee").
+label("/organization/organization/founders","1591916;17","fnac","max théret").
+label("/organization/organization/founders","21202956;12","eelam people's democratic party","douglas devananda").
+label("/organization/organization/founders","38503539;3","pgp corporation","jon callas").
+label("/organization/organization/founders","43399969;14","corcoran gallery of art","william wilson corcoran").
+label("/organization/organization/founders","13127266;2","brimstone press","shane jiraiya cummings").
+label("/organization/organization/founders","16243;87","swaraj party","motilal nehru").
+label("/organization/organization/founders","12474403;23","george c. marshall institute","william nierenberg").
+label("/organization/organization/founders","18358606;4","communist party of china","zhou enlai").
+label("/organization/organization/founders","35825983;6","netjets","richard santulli").
+label("/location/location/contains","3950877;5","illinois","salem").
+label("/location/location/contains","10344966;2","illinois","cass county").
+label("/location/location/contains","37205743;7","india","goa").
+label("/location/location/contains","12203014;2","papua new guinea","eastern highlands province").
+label("/location/location/contains","42230;3","manhattan","chelsea").
+label("/location/location/contains","570234;21","france","muret").
+label("/location/location/contains","15845158;13","michigan","detroit").
+label("/location/location/contains","9997388;9","nashville","fisk university").
+label("/people/deceased_person/cause_of_death","2430662;2","john garang","helicopter crash").
+label("/people/deceased_person/cause_of_death","1236964;42","liaquat ali khan","assassination").
+label("/people/deceased_person/cause_of_death","632193;26","nora bayes","cancer").
+label("/people/deceased_person/cause_of_death","103178;183","john allen muhammad","lethal injection").
+label("/people/deceased_person/cause_of_death","9976582;84","ernie davis","leukemia").
+label("/people/deceased_person/cause_of_death","5287404;11","austin hayes","lung cancer").
+label("/people/deceased_person/cause_of_death","1353027;29","louis hayward","lung cancer").
+label("/people/deceased_person/cause_of_death","25443917;43","saul","suicide").
+label("/people/deceased_person/cause_of_death","38238581;3","adam lanza","suicide").
+label("/people/deceased_person/cause_of_death","715299;68","abraham lincoln","assassination").
+label("/people/deceased_person/cause_of_death","655645;35","marion hutton","cancer").
+label("/people/deceased_person/cause_of_death","14526855;12","margaret legum","cancer").
+label("/people/deceased_person/cause_of_death","39776534;2","arthur seyss-inquart","hanging").
+label("/people/deceased_person/cause_of_death","620735;19","qu yuan","suicide").
+label("/people/deceased_person/cause_of_death","7078779;15","yasmine","suicide").
+label("/people/deceased_person/cause_of_death","20682659;9","édith piaf","cancer").
+label("/people/deceased_person/cause_of_death","686148;44","orlando letelier","car bomb").
+label("/people/deceased_person/cause_of_death","3268340;14","haydain neale","lung cancer").
+label("/people/deceased_person/cause_of_death","212192;66","tyler clementi","suicide").
+label("/people/deceased_person/cause_of_death","1012835;27","adam czerniaków","suicide").
+label("/people/deceased_person/cause_of_death","1017659;22","adam czerniaków","suicide").
+label("/people/deceased_person/cause_of_death","71280;25","madeleine of valois","tuberculosis").
+label("/people/deceased_person/cause_of_death","39238465;32","paul walker","single-vehicle accident").
+label("/people/deceased_person/cause_of_death","542202;57","pat thomson","cancer").
+label("/people/deceased_person/cause_of_death","445794;10","ted nebbeling","cancer").
+label("/people/deceased_person/cause_of_death","7845738;2","marie steichen","cancer").
+label("/people/deceased_person/cause_of_death","23417945;27","huw ceredig","natural causes").
+label("/people/deceased_person/cause_of_death","2939335;12","fumio hayasaka","tuberculosis").
+label("/people/deceased_person/cause_of_death","2538899;126","ibrahim touré","cancer").
+label("/people/deceased_person/cause_of_death","5529634;146","kelly johnson","cancer").
+label("/people/deceased_person/cause_of_death","6999684;325","georgia frontiere","breast cancer").
+label("/people/deceased_person/cause_of_death","416798;447","szmul zygielbojm","suicide").
+label("/people/deceased_person/cause_of_death","9584201;19","vera scantlebury brown","cancer").
+label("/people/deceased_person/cause_of_death","3275619;79","daniel gonzalez","suicide").
+label("/organization/organization/founders","17837887;4","alcoa","alfred e. hunt").
+label("/organization/organization/founders","3028738;37","rikken kaishintō","ōkuma shigenobu").
+label("/organization/organization/founders","10729258;16","beserkley records","matthew king kaufman").
+label("/organization/organization/founders","22811152;14","unity church","charles fillmore").
+label("/organization/organization/founders","22811152;48","unity church","charles fillmore").
+label("/organization/organization/founders","153851;48","westjet","clive beddoe").
+label("/organization/organization/founders","7201919;11","seton hall university","james roosevelt bayley").
+label("/organization/organization/founders","311402;6","french institute of administrative sciences","rené cassin").
+label("/organization/organization/founders","38375190;1","redmonk","james governor").
+label("org:founded_by","5054620;14","frank sinatra school of the arts","tony bennett").
+label("org:founded_by","61123;4","red bull gmbh","chaleo yoovidhya").
+label("org:founded_by","14205576;9","healthcare volunteer","elliot mendelsohn").
+label("org:founded_by","18619759;1","underland press","victoria blake").
+label("org:founded_by","842695;27","credit suisse","alfred escher").
+label("org:founded_by","21904663;9","credit suisse","alfred escher").
+label("org:founded_by","4696854;5","elevation partners","fred anderson").
+label("org:founded_by","5935608;2","northern songs","dick james").
+label("org:founded_by","1412131;3","seventh-day adventist church","ellen g. white").
+label("org:founded_by","10521268;2","seventh-day adventist church","ellen g. white").
+label("org:founded_by","2773956;2","godrej group","ardeshir godrej").
+label("org:founded_by","15002680;9","pearson's candy company","p. edward pearson").
+label("org:founded_by","40566737;3","indie press revolution","ed cha").
+label("org:founded_by","31778977;25","lonely planet","maureen wheeler").
+label("org:founded_by","16986687;98","high voltage software","kerry ganofsky").
+label("org:founded_by","19242215;10","midtown comics","thomas galitos").
+label("org:founded_by","5171185;7","st leonards school","louisa lumsden").
+label("org:founded_by","4087716;9","charterhouse school","thomas sutton").
+label("/people/person/place_of_birth","1786557;34","naguib mahfouz","cairo").
+label("org:founded_by","23382394;7","anti-football league","keith dunstan").
+label("/people/person/place_of_birth","1689797;15","bill clinton","hope").
+label("/organization/organization/founders","398402;9","hong kong progressive alliance","ambrose lau").
+label("/organization/organization/founders","204768;88","kuomintang","sun yat-sen").
+label("/organization/organization/founders","40941340;2","lebara group","baskaran kandiah").
+label("org:founded_by","2008398;28","parents television council","l. brent bozell").
+label("org:founded_by","25048674;4","computer sciences corporation","roy nutt").
+label("org:founded_by","12628170;8","chrysler","walter p. chrysler").
+label("org:founded_by","12190825;2","ferrellgas","a.c. ferrell").
+label("org:founded_by","3048686;4","antix productions","yvette fielding").
+label("org:founded_by","19572250;2","locus computing corporation","gerald j. popek").
+label("org:founded_by","62093;40","gordonstoun","kurt hahn").
+label("org:founded_by","9723111;33","gordonstoun","kurt hahn").
+label("org:founded_by","21749124;14","gordonstoun","kurt hahn").
+label("org:founded_by","175984;117","zipcar","robin chase").
+label("org:founded_by","33589;256","wal-mart","sam walton").
+label("org:founded_by","17628407;3","wal-mart","sam walton").
+label("org:founded_by","653953;9","winchester college","william of wykeham").
+label("org:founded_by","4157560;25","newport television","providence equity partners").
+label("org:founded_by","13884359;25","newport television","providence equity partners").
+label("/people/person/place_of_birth","4756610;3","daniel olivas","los angeles").
+label("/people/person/place_of_birth","1920378;2","ian storey-moore","ipswich").
+label("/people/person/place_of_birth","11069093;4","fred alexander","victoria").
+label("/people/person/place_of_birth","3539596;4","cully hamner","huntsville").
+label("/people/person/place_of_birth","21336683;4","michael elmgreen","copenhagen").
+label("/people/person/place_of_birth","31165296;2","tim nanai-williams","auckland").
+label("/people/person/profession","1785998;13","chris brown","singer").
+label("/people/person/profession","1735942;4","lawrence frank","coach").
+label("/people/person/profession","1800934;8","bill russell","coach").
+label("/people/person/profession","1759436;13","robert weisberg","law professor").
+label("/people/person/profession","1677918;4","daniel okrent","editor").
+label("/people/person/profession","1790670;8","giorgio armani","fashion designer").
+label("/people/person/profession","1795408;31","joe klein","author").
+label("/people/person/profession","1792597;31","charlie weis","coach").
+label("/people/person/profession","1706457;28","daniel barenboim","music director").
+label("/people/person/profession","1693128;24","mordicai gerstein","illustrator").
+label("/people/person/profession","1807239;44","charles mason","astronomer").
+label("/people/person/profession","1785133;28","charles breen","production designer").
+label("/people/person/profession","1718373;321","ville valo","singer").
+label("/people/person/profession","1653122;15","kermit roosevelt","writer").
+label("/people/person/profession","1677469;12","ruth reichl","editor").
+label("/people/person/profession","1662953;1","saul bellow","writer").
+label("/people/person/profession","1677926;25","kenneth m. duberstein","lobbyist").
+label("/people/person/profession","1754917;6","richard john neuhaus","editor").
+label("/people/person/profession","1640990;16","lenny wilkens","coach").
+label("/people/person/profession","1681017;19","johnny miller","commentator").
+label("/people/person/profession","1727323;14","peter serkin","pianist").
+label("/people/person/profession","1747035;18","tom renney","coach").
+label("/people/person/profession","1710408;11","ray kurzweil","author").
+label("/people/person/profession","1729485;14","paul auster","writer").
+label("/people/person/profession","1802423;11","thomas lynch","funeral director").
+label("/people/person/profession","1794968;33","gerald perry","coach").
+label("/people/person/profession","1703150;18","charlene li","analyst").
+label("/people/person/profession","1720970;26","terry mcaulay","referee").
+label("/people/person/profession","1716840;5","zenon grocholewski","cardinal").
+label("/people/person/profession","1775757;298","devin hoff","bassist").
+label("/people/person/profession","1685062;24","willie randolph","manager").
+label("/people/person/profession","1695448;13","willie randolph","manager").
+label("/people/person/profession","1746786;5","willie randolph","manager").
+label("/people/person/profession","1786101;4","willie randolph","manager").
+label("/people/person/profession","1646772;11","macie vener","production designer").
+label("/people/person/profession","1724406;10","neil simon","playwright").
+label("/people/person/profession","1716106;1","50 cent","rapper").
+label("/people/person/profession","1763959;7","50 cent","rapper").
+label("/people/person/profession","1703954;10","terry francona","manager").
+label("/people/person/profession","1662918;28","saul steinberg","cartoonist").
+label("/people/person/profession","1763457;13","denise giardina","novelist").
+label("/people/person/profession","1696773;16","marc ecko","designer").
+label("/people/person/profession","1697877;14","ernest flagg","architect").
+label("/people/person/profession","1775818;1","lewis a. kaplan","judge").
+label("/people/person/profession","1639325;2","mack brown","coach").
+label("/people/person/profession","1675055;36","mike d'antoni","coach").
+label("/people/person/profession","1796680;51","alan dershowitz","author").
+label("/people/person/profession","1645836;20","nathan englander","writer").
+label("/people/person/profession","1790913;26","daniel libeskind","architect").
+label("/people/person/profession","1769345;3","marc schneier","rabbi").
+label("/people/person/profession","1649665;46","mary roach","author").
+label("/people/person/profession","1716592;7","stuart beattie","screenwriter").
+label("/people/person/profession","1708458;8","geoffrey r. stone","law professor").
+label("/people/person/profession","1793644;28","auguste rodin","sculptor").
+label("/people/person/profession","1676079;17","damien hirst","contemporary artist").
+label("/people/person/profession","1664976;18","robert n. chatigny","judge").
+label("/people/person/profession","1795980;10","william morrow","publisher").
+label("/people/person/profession","1750415;6","gray kunz","chef").
+label("/people/person/profession","1691797;4","david thomson","historian").
+label("/people/person/profession","1665426;3","sophiline cheam shapiro","choreographer").
+label("/people/person/profession","1713581;30","robert hughes","art critic").
+label("/people/person/profession","1789579;2","ferran adrià","chef").
+label("/people/person/profession","1659749;8","ella waldek","wrestler").
+label("/people/person/profession","1760666;20","peter laviolette","coach").
+label("/people/person/profession","1736135;10","mike mccarthy","coach").
+label("/people/person/profession","1769196;13","james jones","writer").
+label("/people/person/profession","1793371;403","andré previn","conductor").
+label("/people/person/profession","1670835;63","willie wilson","baseball player").
+label("/people/person/profession","30863152;23","shawn ashmore","actor").
+label("/people/person/place_of_birth","1755828;3","marcia martin","philadelphia").
+label("/people/person/place_of_birth","1725641;30","benjamin franklin","boston").
+label("/people/person/place_of_birth","9602010;2","alfonso alberto perla fuentes","san alejo").
+label("/people/person/place_of_birth","480764;3","françois schuiten","brussels").
+label("/people/person/place_of_birth","22393838;2","jennifer holliday","melbourne").
+label("/people/person/place_of_birth","20624898;6","louisa martindale","leytonstone").
+label("/people/person/place_of_birth","19899895;2","carl brenders","belgium").
+label("/people/person/place_of_birth","205008;3","christian gottfried ehrenberg","delitzsch").
+label("/people/person/place_of_birth","7612029;66","william jackson","gunbar").
+label("/people/person/place_of_birth","27334916;2","randy waldman","chicago").
+label("/people/person/place_of_birth","11572462;2","antoni adamski","gniezno county").
+label("/people/person/place_of_birth","28921310;5","jack mccauley","battle creek").
+label("/people/person/place_of_birth","24089272;6","jean jaurès","castres").
+label("/people/person/place_of_birth","1676032;3","ron freeman","elizabeth").
+label("/people/person/place_of_birth","2084098;3","dominique lapierre","châtelaillon-plage").
+label("/people/person/place_of_birth","5645868;2","sajid khan","mumbai").
+label("/people/person/place_of_birth","9001825;2","daniel freire","buenos aires").
+label("/people/person/place_of_birth","22920157;2","cliff brown","valdosta").
+label("/people/person/place_of_birth","11408848;2","julia mächtig","rostock").
+label("/people/person/place_of_birth","7839275;3","tom lowe","stockport").
+label("/people/person/place_of_birth","5831501;4","elizabeth crocker bowers","stamford").
+label("/people/person/place_of_birth","2014222;2","knuts skujenieks","riga").
+label("/people/person/place_of_birth","2227076;15","alfredo stroessner","encarnación").
+label("/people/person/place_of_birth","34028654;2","andreas thomsson","kalmar").
+label("/people/person/place_of_birth","16118819;2","peter mcnamee","jamaica").
+label("/people/person/place_of_birth","17855213;2","martin büchel","ruggell").
+label("/people/person/place_of_birth","18738814;2","deezle","new orleans").
+label("/people/person/place_of_birth","19493371;3","lachlan buchanan","australia").
+label("/people/deceased_person/place_of_death","1782144;1","james harvey young","atlanta").
+label("/people/deceased_person/place_of_death","1766395;28","bohumil hrabal","prague").
+label("/people/deceased_person/place_of_death","1657924;6","terry ratzmann","brookfield").
+label("/people/deceased_person/place_of_death","1659669;1","gary bertini","tel hashomer").
+label("/people/deceased_person/place_of_death","1671206;1","benny bailey","amsterdam").
+label("/people/deceased_person/place_of_death","1793031;1","byron nelson","roanoke").
+label("/people/deceased_person/place_of_death","1733971;1","stephen papich","los angeles").
+label("/people/deceased_person/place_of_death","1654679;69","michael schwerner","philadelphia").
+label("/people/deceased_person/place_of_death","1705759;1","constance baker motley","manhattan").
+label("/people/deceased_person/place_of_death","1689916;2","jean charles de menezes","stockwell").
+label("/people/deceased_person/place_of_death","1750861;1","ian hamilton finlay","edinburgh").
+label("/people/deceased_person/place_of_death","1654502;1","martin denny","honolulu").
+label("/people/deceased_person/place_of_death","1721878;1","peter d. eimas","providence").
+label("/people/deceased_person/place_of_death","1753692;1","jim clack","greensboro").
+label("/people/deceased_person/place_of_death","1695153;1","david loeb weiss","san diego").
+label("/people/deceased_person/place_of_death","1810485;1","van smith","marianna").
+label("/people/deceased_person/place_of_death","1738164;1","peter ladefoged","london").
+label("/people/deceased_person/place_of_death","1789856;1","robert j. gorlin","minneapolis").
+label("/people/deceased_person/place_of_death","1761056;1","floyd patterson","new paltz").
+label("/people/person/profession","41239641;2","susan harrison","writer").
+label("/people/person/profession","11272657;62","mark urban","editor").
+label("/people/person/profession","38185882;2","thomas l. cummings","politician").
+label("/people/person/profession","21880863;2","brian corcoran","actor").
+label("/people/person/profession","17216341;2","richard davies","actor").
+label("/people/person/profession","32621466;2","hugo blick","actor").
+label("/people/person/profession","1296421;3","marion williams","singer").
+label("/people/person/profession","24283997;1","john collin","actor").
+label("/people/person/profession","4044517;2","james coburn","actor").
+label("/people/person/profession","341837;20","max pollikoff","violinist").
+label("/people/person/profession","2537539;2","christopher parker","presenter").
+label("/people/person/profession","32389508;15","david walton","actor").
+label("/people/person/profession","11702824;2","david colson","actor").
+label("/people/person/profession","9426904;8","michael gambon","actor").
+label("/people/person/profession","39303320;2","andré lee roberson","basketball player").
+label("/people/person/profession","5241674;5","michael caine","actor").
+label("/people/person/profession","41851969;32","bruno ganz","actor").
+label("/people/person/profession","39953376;1","henry brougham","priest").
+label("/people/person/profession","6191389;3","william goetz","film producer").
+label("/people/person/profession","1046498;1","dave matthews","musician").
+label("/people/person/profession","244827;1","phil collins","drummer").
+label("/people/person/profession","27520308;30","kayo willis","coach").
+label("/people/person/profession","3470430;2","scott olson","engineer").
+label("/people/person/profession","8156651;2","ovadiah","prophet").
+label("/people/person/profession","9561421;6","parmenides","philosopher").
+label("/people/person/profession","1669895;16","william moon","soldier").
+label("/people/person/profession","6479641;33","carl simon","mathematician").
+label("/people/person/profession","3096383;6","virginia fallon","singer").
+label("/people/person/profession","9113319;2","peter mcwilliams","author").
+label("/people/person/profession","43304915;2","william m. marchant","politician").
+label("/people/person/profession","3300059;33","michael hoit","actor").
+label("/people/person/profession","9459686;23","michael pate","actor").
+label("/people/person/profession","12508710;9","dick haines","coach").
+label("/people/person/profession","25067340;2","thomas potter","politician").
+label("/people/person/profession","551230;44","tony jones","presenter").
+label("/people/person/profession","718142;3","william hudson","botanist").
+label("/people/person/profession","1306853;6","raj kapoor","actor").
+label("/people/person/profession","31141910;2","katarzyna grochola","writer").
+label("/people/person/profession","1020494;33","patrick mcgoohan","actor").
+label("/people/person/profession","6250883;9","laurie schwartz","actor").
+label("/people/person/profession","1468416;11","robert walker","actor").
+label("/people/person/profession","609663;2","mario lopez","actor").
+label("/people/person/profession","29397104;2","sebastian fechner","footballer").
+label("/people/person/profession","15000450;4","neil tennant","singer").
+label("/people/person/profession","38375;107","carl sagan","astronomer").
+label("/people/person/profession","15368;45","r. foster winans","journalist").
+label("/people/person/profession","32732255;1","james eyre","physician").
+label("/people/person/profession","2359190;2","kevin anderson","actor").
+label("/people/person/profession","1887116;22","mary k. greer","author").
+label("/people/person/profession","155213;5","charles borromeo","cardinal").
+label("/people/person/profession","3411462;14","jim lee","artist").
+label("/people/person/profession","659779;9","francesca battistelli","music artist").
+label("/people/person/profession","16616;2","robert fripp","guitarist").
+label("/people/person/profession","179308;35","robert fripp","guitarist").
+label("/people/person/profession","36164536;1","karan casey","singer").
+label("/people/person/profession","17608105;200","doug jones","actor").
+label("/people/person/profession","18426857;31","bruce lee","martial arts").
+label("/people/person/profession","18894920;23","alan johnson","guitarist").
+label("/people/person/profession","33894006;18","margot adler","journalist").
+label("/people/person/profession","2059942;1","david nelson","actor").
+label("/people/person/profession","4585604;1","michael starke","actor").
+label("/people/person/profession","31181947;2","alejandro reyna","singer").
+label("/people/person/profession","6729510;59","adam scott","actor").
+label("/people/person/profession","1735172;26","hal smith","actor").
+label("/people/person/profession","22041478;3","kavan smith","actor").
+label("/people/person/profession","13709587;1","peter benson","actor").
+label("/organization/organization/place_founded","1655352;1","bank hapoalim","israel").
+label("/organization/organization/place_founded","1814234;3","independent television service","san francisco").
+label("/organization/organization/place_founded","1758674;10","kimpton hotels & restaurants","san francisco").
+label("/organization/organization/place_founded","1747233;14","hsbc","hong kong").
+label("/organization/organization/place_founded","1799315;32","meredith corporation","des moines").
+label("/organization/organization/place_founded","1786773;8","aston martin","london").
+label("/organization/organization/place_founded","1689659;13","sherwin-williams","cleveland").
+label("/organization/organization/place_founded","1647364;2","hewlett-packard","palo alto").
+label("/organization/organization/place_founded","1768553;4","hewlett-packard","palo alto").
+label("/organization/organization/place_founded","1793296;31","hewlett-packard","palo alto").
+label("/organization/organization/place_founded","1808593;3","hewlett-packard","palo alto").
+label("/organization/organization/place_founded","1814358;17","softbank","tokyo").
+label("/organization/organization/place_founded","1758476;9","nec","tokyo").
+label("/organization/organization/place_founded","1661250;1","regal entertainment group","knoxville").
+label("/organization/organization/place_founded","1763327;1","shanghai tang","hong kong").
+label("/organization/organization/place_founded","1732183;1","hydro-québec","montreal").
+label("/organization/organization/place_founded","2931064;18","san francisco bay","san francisco").
+label("/organization/organization/place_founded","2080878;40","wsb-tv","atlanta").
+label("/organization/organization/place_founded","964809;14","butler","new york city").
+label("/organization/organization/place_founded","9354154;21","hasselblad","gothenburg").
+label("/organization/organization/place_founded","8504724;2","sharp healthcare","san diego").
+label("/organization/organization/place_founded","15925978;21","8th infantry division","germany").
+label("/organization/organization/place_founded","604522;1","indian navy","india").
+label("/organization/organization/place_founded","1771956;1","anheuser-busch","st. louis").
+label("/organization/organization/place_founded","1672881;14","mount holyoke college","south hadley").
+label("/organization/organization/place_founded","1807575;13","mount holyoke college","south hadley").
+label("/organization/organization/place_founded","1678561;2","kqed","san francisco").
+label("/organization/organization/place_founded","10201455;14","danfoss","nordborg").
+label("/organization/organization/place_founded","4022566;1","white tower hamburgers","milwaukee").
+label("/organization/organization/place_founded","1906383;32","wnbc","new york city").
+label("/organization/organization/place_founded","339790;19","wnbc","new york city").
+label("/organization/organization/place_founded","28131031;6","wnyw","new york city").
+label("/organization/organization/place_founded","29693292;23","cbs interactive","san francisco").
+label("/organization/organization/place_founded","33060;156","wwj","detroit").
+label("/organization/organization/place_founded","34714471;5","union montreal","montreal").
+label("/organization/organization/place_founded","5779878;6","wcbs","new york city").
+label("/organization/organization/place_founded","24519723;134","harvard university press","cambridge").
+label("/organization/organization/place_founded","2953259;26","a&m studios","los angeles").
+label("/organization/organization/place_founded","6760654;3","sun shipbuilding & drydock co.","chester").
+label("/organization/organization/place_founded","838161;39","kpfa","california").
+label("/organization/organization/place_founded","22190691;4","kpfa","california").
+label("/people/deceased_person/place_of_death","1800268;1","lawrence w. levine","berkeley").
+label("/people/deceased_person/place_of_death","1807232;20","dian fossey","rwanda").
+label("/organization/organization/place_founded","1702694;19","university of memphis","memphis").
+label("/organization/organization/place_founded","1767033;2","emmanuel church","newport").
+label("/organization/organization/place_founded","1673891;2","maytag","iowa").
+label("/organization/organization/place_founded","1694333;9","maytag","newton").
+label("/organization/organization/place_founded","1672844;12","national football league","canton").
+label("/organization/organization/place_founded","1801671;8","biomet","warsaw").
+label("/organization/organization/place_founded","1722783;15","lennar corporation","miami").
+label("/organization/organization/place_founded","1752476;1","wwl-tv","new orleans").
+label("/organization/organization/place_founded","1723160;2","biba","london").
+label("/organization/organization/place_founded","1659371;6","prostate cancer foundation","santa monica").
+label("/organization/organization/place_founded","1647189;16","toyota","japan").
+label("/organization/organization/place_founded","1774464;33","toyota","japan").
+label("/organization/organization/place_founded","1780741;26","toyota","japan").
+label("/organization/organization/place_founded","1799497;8","toyota","japan").
+label("/organization/organization/place_founded","1813422;5","toyota","japan").
+label("/organization/organization/place_founded","1784043;3","philharmonia baroque orchestra","san francisco").
+label("/organization/organization/place_founded","1810345;35","fcb","chicago").
+label("/organization/organization/place_founded","1666582;1","loma negra","argentina").
+label("/organization/organization/place_founded","1787714;14","national interagency fire center","boise").
+label("/people/person/children","3101130;3","alexander w. carson","jean carson").
+label("/people/person/children","9443908;13","christopher hollis","crispian hollis").
+label("/people/person/children","7029569;5","augustus","julia the elder").
+label("/people/person/children","3936178;3","raj kapoor","randhir kapoor").
+label("/people/person/children","13772912;6","yeon taejo","yeon gaesomun").
+label("/people/person/children","1081717;1","marcus vipsanius agrippa","vipsania agrippina").
+label("/people/person/children","13631826;12","george harrison","dhani harrison").
+label("/people/person/children","4409408;2","fernanda montenegro","fernanda torres").
+label("/people/person/children","171110;2","isaac","esau").
+label("/people/person/children","26678580;3","anne carne","maria branwell").
+label("/people/person/children","1845066;69","mary","jesus christ").
+label("/people/person/children","331311;64","mary","jesus christ").
+label("/people/person/children","28749402;4","brian farnon","charmian carr").
+label("/people/person/children","902035;3","halfdan the black","harald fairhair").
+label("/people/person/children","266088;41","jesse","david").
+label("/people/person/children","42686236;14","wang yanjun","wang jipeng").
+label("/people/person/children","7680663;9","catherine opalińska","marie leszczyńska").
+label("/people/person/children","48594;20","michael johnson","samuel johnson").
+label("/people/person/children","551366;12","abraham","ishbak").
+label("/people/person/children","14661857;5","valentine haroche","serge haroche").
+label("/people/person/children","855132;3","mao zedong","mao anqing").
+label("/people/person/children","129194;25","harry epstein","brian epstein").
+label("/people/person/children","9017943;63","uğur mumcu","özge mumcu").
+label("/people/person/children","66555;143","sun yat-sen","sun fo").
+label("/people/person/children","519989;84","nurhaci","hong taiji").
+label("/people/person/children","23384299;134","khabul khan","hotula khan").
+label("/people/person/children","9535094;34","trần thánh tông","trần nhân tông").
+label("/people/person/children","514505;65","alexander salkind","ilya salkind").
+label("/people/person/children","404323;87","rula ghani","mariam ghani").
+label("/people/person/children","62558;10","chlodio","merovech").
+label("/people/person/children","14851312;2","julia lennon","julia baird").
+label("/people/person/children","34253179;28","li keyong","li cunxu").
+label("/people/person/children","3253292;3","sasha czack","sage stallone").
+label("/people/person/children","39386963;6","kim jong-il","kim jong-un").
+label("/people/person/children","55251;24","claudius","britannicus").
+label("/people/person/children","15497901;60","siegfried buback","michael buback").
+label("/people/person/children","1692504;13","david","solomon").
+label("/people/person/children","1735408;92","billy graham","franklin graham").
+label("/people/person/children","1643953;40","billy graham","franklin graham").
+label("/people/person/children","1733367;8","billy graham","franklin graham").
+label("/people/person/children","1666210;3","montserrat figueras","arianna savall").
+label("/people/person/children","1684038;8","kathy hilton","nicky hilton").
+label("/people/person/children","1663372;1","jim wiwa","ken saro-wiwa").
+label("/people/person/children","1678825;1","muhammad ali","laila ali").
+label("/people/person/children","1668208;8","mary higgins clark","carol higgins clark").
+label("/people/person/children","1780036;19","dina lohan","lindsay lohan").
+label("/people/person/children","1784889;2","mary ellin barrett","irving barrett").
+label("/people/person/children","1784689;2","mary ellin barrett","katherine swett").
+label("/people/person/children","1769894;8","sumner redstone","shari redstone").
+label("/people/person/children","1769910;8","sumner redstone","shari redstone").
+label("/people/person/children","1694553;14","robert corby kelly","margaret kelly").
+label("/people/person/children","1750845;6","ann kron","lisa kron").
+label("/people/person/children","1808854;36","diane ladd","laura dern").
+label("/people/person/children","1775732;4","helen stenborg","doug hughes").
+label("/people/person/children","1777762;5","fernanda montenegro","fernanda torres").
+label("/people/person/children","1785383;61","richard j. daley","richard m. daley").
+label("/people/person/children","1777674;12","norma dimarco","chris dimarco").
+label("/people/person/children","1702881;1","jeffrey l. hayes","jocelyn hayes").
+label("/people/person/children","1686230;33","lincoln maazel","lorin maazel").
+label("/people/person/children","1713233;13","georgina denison","chloe gill").
+label("/people/person/children","1701573;5","joe kubert","andy kubert").
+label("/people/person/children","1694183;21","sally regenhard","christian regenhard").
+label("/people/person/children","1670737;5","neil simon","ellen simon").
+label("/people/person/children","1815678;14","abraham","ishmael").
+label("/people/person/children","1750821;310","kate mcgarrigle","martha wainwright").
+label("/people/person/children","1710250;21","jane birkin","charlotte gainsbourg").
+label("/people/person/children","1645425;1","sathima bea benjamin","jean grae").
+label("/people/person/children","1759097;12","dick cheney","mary cheney").
+label("/people/person/children","1761905;1","dick cheney","mary cheney").
+label("/people/person/children","1810140;1","dick cheney","mary cheney").
+label("/people/person/children","1651792;12","frank herbert","brian herbert").
+label("/people/person/children","1772132;27","nathaniel hawthorne","una hawthorne").
+label("/people/person/children","1740023;4","stafford cripps","peggy cripps").
+label("/people/person/children","1705777;17","rachel tompkins","mary lee settle").
+label("/people/person/children","1783546;21","jacob","benjamin").
+label("/people/person/children","1693315;43","maxine waters","karen waters").
+label("/people/person/children","1674459;21","johann pachelbel","charles theodore pachelbel").
+label("/people/person/children","1788475;15","isadora duncan","anna duncan").
+label("/people/person/children","1684302;2","wassily leontief","svetlana alpers").
+label("/people/person/children","1717696;2","diana ross","tracee ellis ross").
+label("/people/person/children","1765261;27","brad pitt","shiloh nouvel jolie-pitt").
+label("/people/person/children","1738896;10","larry mcmurtry","james mcmurtry").
+label("/people/person/children","1726948;16","heydar aliyev","ilham aliyev").
+label("/people/person/children","334547;107","leena chandavarkar","amit kumar").
+label("/people/person/children","58481;141","mohammad afzal khan","abdur rahman khan").
+label("/people/person/children","311603;6","manuel aznar zubigaray","manuel aznar acedo").
+label("/people/person/children","789709;75","john young","keoni ana").
+label("/people/person/children","43382099;4","dick thies","brooke theiss").
+label("/people/person/children","505947;54","miúcha","bebel gilberto").
+label("/people/person/children","8501507;41","rexhai surroi","veton surroi").
+label("/people/person/children","43370827;15","ole paus","marcus paus").
+label("/people/person/children","32059581;3","shanti bohra","sunita bohra vyas").
+label("/people/person/children","1895867;58","ed farhat","thomas farhat").
+label("/people/person/children","465800;42","henri matisse","pierre matisse").
+label("/people/person/children","3419543;11","don everly","edan everly").
+label("/people/person/children","21097888;3","karen massoglia","chris massoglia").
+label("/people/person/children","33779091;13","bob marley","rohan marley").
+label("/people/person/children","11592987;21","peter cooper","edward cooper").
+label("/people/person/children","39073840;4","maría luisa merlo","amparo larrañaga").
+label("/people/person/children","13931709;37","jay haas","bill haas").
+label("/people/person/children","2172281;15","shadi habib agha","mumtaz").
+label("/people/person/children","1860537;14","alexander hamilton","james alexander hamilton").
+label("/people/place_lived/location","11092;59","mark twain","elmira").
+label("/people/place_lived/location","937084;9","john campbell","edinburgh").
+label("/people/place_lived/location","18720943;2","gábor bardi","budapest").
+label("/people/place_lived/location","10709353;2","astrid thors","helsinki").
+label("/people/place_lived/location","6118984;2","vojtěch polák","ostrov").
+label("/people/place_lived/location","3088213;96","samuel j. tilden","new york").
+label("/people/place_lived/location","5963113;4","barney warf","london").
+label("/people/place_lived/location","29789499;160","william caslon","birmingham").
+label("/people/place_lived/location","14789454;3","cyril reed","pune").
+label("/people/place_lived/location","25913913;3","john walsh","london").
+label("/people/place_lived/location","31095504;37","kim young-mok","south korea").
+label("/people/place_lived/location","22680742;2","sergei sergeyevich chudin","moscow").
+label("/people/place_lived/location","30585976;109","r. seth williams","philadelphia").
+label("/people/place_lived/location","37822225;2","ivan bulos","lima").
+label("/people/place_lived/location","19188204;2","craig cranmer","johnstone").
+label("/people/place_lived/location","26235227;56","charles james faulkner","martinsburg").
+label("/people/place_lived/location","33643453;2","pierluigi borghetti","brescia").
+label("/people/place_lived/location","24071751;4","christopher weldon","new york city").
+label("/people/place_lived/location","26768341;4","vincent d'indy","paris").
+label("/people/place_lived/location","27375084;2","kim dong-sung","south korea").
+label("/people/place_lived/location","4288728;3","ras baraka","newark").
+label("/people/place_lived/location","14062579;21","samir al wahaj","libyan").
+label("/people/place_lived/location","34359069;2","andre' dimino","brooklyn").
+label("/people/place_lived/location","1766419;59","bryce harper","las vegas").
+label("/people/place_lived/location","1654657;16","gavin newsom","san francisco").
+label("/people/place_lived/location","1666538;6","james hahn","los angeles").
+label("/people/place_lived/location","1746043;1","benjamin franklin","philadelphia").
+label("/people/place_lived/location","1796438;15","bill de blasio","brooklyn").
+label("/people/place_lived/location","1715913;18","john fowles","leigh-on-sea").
+label("/people/place_lived/location","1681761;5","diane gordon","brooklyn").
+label("/people/place_lived/location","1719230;18","brodie croyle","alabama").
+label("/people/place_lived/location","1673679;19","lawrence f. cafero","norwalk").
+label("/people/place_lived/location","1788107;2","ronald d. liebowitz","middlebury").
+label("/people/place_lived/location","1750068;33","diane farrell","connecticut").
+label("/people/place_lived/location","1686884;16","gavin newsom","san francisco").
+label("/people/place_lived/location","1791176;2","shirley m. tilghman","princeton").
+label("/people/place_lived/location","1800962;19","randy graf","arizona").
+label("/people/place_lived/location","1719993;1","phillis wheatley","boston").
+label("/people/place_lived/location","1812868;13","jeff flake","arizona").
+label("/people/place_lived/location","1738070;13","john mccain","arizona").
+label("/people/place_lived/location","1688834;40","john mccain","arizona").
+label("/people/place_lived/location","1672992;49","john mccain","arizona").
+label("/people/place_lived/location","1802630;3","john mccain","arizona").
+label("/people/place_lived/location","1801647;8","john mccain","arizona").
+label("/people/place_lived/location","1703954;30","theo epstein","boston").
+label("/people/place_lived/location","1691754;22","mitt romney","massachusetts").
+label("/people/place_lived/location","1812635;17","mitt romney","massachusetts").
+label("/people/place_lived/location","1754120;22","john kerry","massachusetts").
+label("/people/place_lived/location","1703753;8","brett favre","mississippi").
+label("/people/place_lived/location","1675048;16","tom glavine","atlanta").
+label("/people/place_lived/location","1752459;29","david duke","louisiana").
+label("/people/place_lived/location","1746265;10","ned lamont","connecticut").
+label("/people/place_lived/location","1787200;7","canaletto","venice").
+label("/people/place_lived/location","1718739;7","bill richardson","new mexico").
+label("/people/place_lived/location","1671188;13","bill richardson","new mexico").
+label("/people/place_lived/location","1732405;191","bill richardson","new mexico").
+label("/people/place_lived/location","1760452;16","bill richardson","new mexico").
+label("/people/place_lived/location","1803296;45","bill richardson","new mexico").
+label("/people/place_lived/location","1725497;39","chuck hagel","nebraska").
+label("/people/place_lived/location","1770139;9","xavier","queens").
+label("/people/place_lived/location","1731044;7","tom coburn","oklahoma").
+label("/people/place_lived/location","1680574;5","charles j. hynes","brooklyn").
+label("/people/place_lived/location","1697294;3","steven strait","new york city").
+label("/people/place_lived/location","1700866;33","bill white","houston").
+label("/people/place_lived/location","1750914;38","samuel beckett","paris").
+label("/people/place_lived/location","1794776;1","justin verlander","virginia").
+label("/people/place_lived/location","1721431;2","jeff meckstroth","tampa").
+label("/people/place_lived/location","1695972;12","jon kyl","arizona").
+label("/people/place_lived/location","1782278;30","bob kerrey","nebraska").
+label("/people/place_lived/location","1742127;39","haley barbour","mississippi").
+label("/people/place_lived/location","1725087;17","todd tiahrt","kansas").
+label("/people/place_lived/location","1811405;19","william kennedy","albany").
+label("/people/place_lived/location","1685550;19","joel hefley","colorado springs").
+label("/people/place_lived/location","1640734;22","edgardo mortara","bologna").
+label("/people/place_lived/location","1801635;27","steve chabot","cincinnati").
+label("/people/place_lived/location","1662289;20","kurt andersen","new york").
+label("/people/place_lived/location","1778031;25","david yassky","brooklyn").
+label("/people/place_lived/location","1746278;1","allen iverson","philadelphia").
+label("/people/place_lived/location","1749931;22","dov hikind","brooklyn").
+label("/people/place_lived/location","1732265;27","dale bumpers","arkansas").
+label("/people/place_lived/location","1786738;1","johann sebastian bach","weimar").
+label("/people/place_lived/location","1777202;12","michael bloomberg","new york city").
+label("/people/place_lived/location","1740952;1","fred wilpon","brooklyn").
+label("/people/place_lived/location","1767421;1","william f. weld","new york").
+label("/people/place_lived/location","1686671;1","ken livingstone","london").
+label("/people/place_lived/location","1689891;37","ken livingstone","london").
+label("/people/place_lived/location","1658073;8","robert f. kennedy","new york").
+label("/people/place_lived/location","1656474;9","hunter s. thompson","colorado").
+label("/people/place_lived/location","1663287;1","john steinbeck","salinas").
+label("/people/place_lived/location","1723812;27","richard dawkins","oxford").
+label("/people/place_lived/location","1671894;10","gary sheffield","tampa").
+label("/people/place_lived/location","15170076;5","masaki okada","tokyo").
+label("/people/person/children","685904;12","elsi roessler","lem dobbs").
+label("/people/person/children","4677272;8","mucia tertia","pompeia").
+label("/people/person/children","3319366;8","marlène jobert","eva green").
+label("/people/person/children","9984903;251","ed budde","brad budde").
+label("/people/person/children","43497490;2","pierre-auguste renoir","jean renoir").
+label("/people/person/children","2450770;6","rajuvula","sodasa").
+label("/people/person/children","39757852;6","edmund shaa","hugh shaa").
+label("/people/person/children","17130499;90","brij narayan","harsh narayan").
+label("/people/person/children","24676419;122","mary surratt","anna surratt").
+label("/people/person/children","348777;56","phil morrison","stevie morrison").
+label("/people/person/children","19858933;4","vitali bezrukov","sergey bezrukov").
+label("/people/place_lived/location","9430264;2","yuval spungin","ramat gan").
+label("/people/place_lived/location","313336;16","sergei kovalev","moscow").
+label("/people/place_lived/location","37610616;3","jacques balutin","paris").
+label("/people/place_lived/location","11810327;2","simon gatti","welland").
+label("/people/place_lived/location","7151049;2","albert edward ismail yelda","ramadi").
+label("/people/place_lived/location","28913625;5","david rose","london").
+label("/people/place_lived/location","26149934;3","christopher hamilton","london").
+label("/people/place_lived/location","11244580;4","david jules","manchester").
+label("/people/place_lived/location","19879817;2","chris wyles","stamford").
+label("/people/place_lived/location","31095387;2","archie campbell","dunfermline").
+label("/people/place_lived/location","9200035;2","yang chao","harbin").
+label("/people/place_lived/location","8716715;2","richard culek","liberec").
+label("/people/place_lived/location","10795744;2","simon marples","sheffield").
+label("/people/place_lived/location","4613465;3","mark vallen","los angeles").
+label("/people/place_lived/location","17403247;3","martín quinterno","buenos aires").
+label("/people/person/languages","64039;22","enya","irish").
+label("/people/person/languages","39744551;21","theodore roosevelt","french").
+label("/people/person/languages","7971505;4","vanessa paradis","french").
+label("/people/person/languages","6143718;1","pierre delanoë","french").
+label("/people/person/languages","376115;96","pierre danos","french").
+label("/people/person/languages","32631111;2","pierre denis","french").
+label("/people/person/languages","33866519;4","lara fabian","english-language").
+label("/people/person/languages","508795;4","gloria estefan","english-language").
+label("/people/person/languages","808224;8","fanny ardant","french").
+label("/people/person/languages","6705113;2","rajinikanth","tamil").
+label("/people/person/languages","2703069;14","herman seals","french").
+label("/people/person/languages","5907816;2","gautham menon","tamil").
+label("/people/person/languages","4966362;15","gautham menon","tamil").
+label("/people/person/languages","42420391;10","sébastien betbeder","french").
+label("/people/person/languages","31630666;1","alain chartier","french").
+label("/people/person/languages","37924;3","pierre beaumarchais","french").
+label("/people/person/languages","25652616;5","john millain","french").
+label("/people/person/languages","3708005;10","pierre ducos","french").
+label("/people/person/languages","6816090;15","alexandre dumas","french").
+label("/people/person/languages","17503831;23","alexandre dumas","french").
+label("/people/person/languages","14944773;4","alexandre dumas","french").
+label("/people/person/languages","2742470;14","alexandre premat","french").
+label("/people/person/languages","22362980;19","alexandre marc","french").
+label("/people/person/languages","1755880;22","maurice joly","french").
+label("/people/person/languages","1720502;27","keren ann","french").
+label("/people/person/languages","1722728;22","brigitte bardot","french").
+label("/people/person/languages","1746018;3","brigitte bardot","french").
+label("/people/person/languages","1722034;12","brigitte bardot","french").
+label("/people/person/languages","1778920;3","brigitte bardot","french").
+label("/people/person/languages","1712499;17","claude berri","french").
+label("/people/person/languages","1691806;16","claude chabrol","french").
+label("/people/person/languages","1738491;4","claude chabrol","french").
+label("/people/person/languages","1785107;140","claude chabrol","french").
+label("/people/person/languages","1782057;138","claude chabrol","french").
+label("/people/person/languages","1783535;143","claude chabrol","french").
+label("/people/person/languages","1786706;165","claude chabrol","french").
+label("/people/person/languages","1800535;107","claude chabrol","french").
+label("/people/person/languages","1811937;1","jorge luis borges","french").
+label("/people/person/languages","1695120;24","jean-paul belmondo","french").
+label("/people/person/languages","1698942;24","jean-paul belmondo","french").
+label("/people/person/languages","1720076;242","jean-paul belmondo","french").
+label("/people/person/languages","1795069;3","jean-paul belmondo","french").
+label("/people/person/languages","1689692;17","george orwell","english language").
+label("/people/person/languages","1652831;1","george orwell","english language").
+label("/people/person/languages","1776154;29","george orwell","english language").
+label("/people/person/languages","1759739;59","asia argento","french").
+label("/people/person/languages","1652207;3","yann tiersen","french").
+label("/people/person/languages","1678751;25","nico","french").
+label("/people/person/languages","1715274;1","rosamund pike","french").
+label("/people/person/languages","1709042;16","marcel duchamp","french").
+label("/people/person/languages","1735936;8","celine dion","french").
+label("/people/person/languages","1720930;1","enya","irish").
+label("/people/person/languages","1715847;34","daniel cohn-bendit","french").
+label("/people/person/languages","1711987;27","daniel cohn-bendit","french").
+label("/people/person/languages","1765217;20","helena bonham carter","french").
+label("/people/person/languages","1781495;19","régis debray","french").
+label("/people/person/languages","1651195;4","virginie ledoyen","french").
+label("/people/person/languages","1776375;10","charlotte rampling","french").
+label("/people/person/languages","1657456;37","michel winock","french").
+label("/people/person/languages","1803994;42","alexandre dumas","french").
+label("/people/person/languages","29633512;10","michael fassbender","english-language").
+label("/people/person/languages","28632743;2","nassar","tamil").
+label("/people/person/languages","13033963;1","etienne leroux","afrikaans-language").
+label("/people/person/languages","384176;106","jean-louis le loutre","french").
+label("/people/person/languages","8060625;1","françois florent","french").
+label("/people/person/languages","30761707;59","françois clouet","french").
+label("/people/person/languages","6973699;3","brigitte bardot","french").
+label("/people/person/languages","29451730;41","brigitte bardot","french").
+label("/people/person/languages","9118117;2","jános garay","hungarian").
+label("/people/person/languages","28343367;19","thomas east","french").
+label("/people/person/languages","6524610;12","claude chabrol","french").
+label("/people/person/languages","3523090;2","claude chabrol","french").
+label("/people/person/languages","26360834;2","claude chabrol","french").
+label("/people/person/languages","6337863;7","jean-paul belmondo","french").
+label("/people/person/languages","44007818;1","michel déon","french").
+label("/people/person/languages","365347;24","bradley cooper","french").
+label("/people/person/languages","32525997;8","madonna","english-language").
+label("/people/person/languages","455876;4","nico","french").
+label("/people/person/languages","22905859;6","olga kurylenko","french").
+label("/people/person/languages","4067005;2","sophie moniotte","french").
+label("/people/person/languages","5195275;177","dario argento","french").
+label("/people/person/languages","42190906;1","sophie marceau","french").
+label("/people/person/languages","33371355;4","sophie marceau","french").
+label("/people/person/languages","1206525;39","jean-françois richet","french").
+label("/people/person/languages","22483443;2","jean-françois richet","french").
+label("/people/person/languages","21213398;94","jean-françois sordet","french").
+label("/people/person/languages","18357891;12","jean-françois balmer","french").
+label("/people/person/languages","34529751;1","jean-françois davy","french").
+label("/people/person/languages","27407280;2","jean-françois lepage","french").
+label("/people/person/languages","37561752;1","jean-françois millet","french").
+label("/people/person/languages","36824902;2","alain cortes","french").
+label("/people/person/languages","42522359;309","maurice maeterlinck","french").
+label("/people/person/languages","24504342;2","jean ricardou","french").
+label("/people/person/languages","342016;7","geoffrey chaucer","middle english").
+label("/location/location/nearby_airports","1790963;5","san salvador","el salvador international airport").
+label("/location/location/nearby_airports","1667147;18","kuala lumpur","kuala lumpur international airport").
+label("/location/location/nearby_airports","1717043;121","adana","incirlik air base").
+label("/location/location/nearby_airports","1700415;23","bay st. louis","stennis international airport").
+label("/location/location/nearby_airports","1802443;9","warwick","t. f. green airport").
+label("/location/location/nearby_airports","1693991;17","hartford","bradley international airport").
+label("/location/location/nearby_airports","1723437;39","knoxville","mcghee tyson airport").
+label("/location/location/nearby_airports","1746167;12","madison","griswold airport").
+label("/location/location/nearby_airports","1755857;40","fayetteville","northwest arkansas regional airport").
+label("/location/location/nearby_airports","1743155;1","warner robins","robins air force base").
+label("/location/location/nearby_airports","1773473;1","westchester county","westchester county airport").
+label("/location/location/nearby_airports","1672102;19","westhampton beach","francis s. gabreski airport").
+label("/location/location/nearby_airports","1690541;5","bishkek","manas international airport").
+label("/location/location/nearby_airports","1723393;20","orange county","john wayne airport").
+label("/location/location/nearby_airports","1639293;27","white plains","westchester county airport").
+label("/location/location/nearby_airports","1694406;4","white plains","westchester county airport").
+label("/location/location/nearby_airports","1784092;17","white plains","westchester county airport").
+label("/location/location/nearby_airports","1808652;26","white plains","westchester county airport").
+label("/location/location/nearby_airports","1808818;26","white plains","westchester county airport").
+label("/location/location/nearby_airports","1648866;14","houston","george bush intercontinental airport").
+label("/location/location/nearby_airports","1687677;6","houston","george bush intercontinental airport").
+label("/location/location/nearby_airports","1780729;12","havana","josé martí international airport").
+label("/location/location/nearby_airports","1703230;24","baghdad","baghdad international airport").
+label("/location/location/nearby_airports","1642933;5","philadelphia","philadelphia international airport").
+label("/location/location/nearby_airports","1765991;5","newburgh","stewart international airport").
+label("/location/location/nearby_airports","1661787;57","buenos aires","ministro pistarini international airport").
+label("/location/location/nearby_airports","1774609;60","buenos aires","ministro pistarini international airport").
+label("/location/location/nearby_airports","1725837;71","boston","logan international airport").
+label("/location/location/nearby_airports","1686499;10","boston","logan international airport").
+label("/location/location/nearby_airports","1688963;13","boston","logan international airport").
+label("/location/location/nearby_airports","1673212;8","boston","logan international airport").
+label("/location/location/nearby_airports","1790951;26","boston","logan international airport").
+label("/location/location/nearby_airports","1791168;7","boston","logan international airport").
+label("/location/location/nearby_airports","1682519;29","eau claire","chippewa valley regional airport").
+label("/location/location/nearby_airports","1743345;35","kaiserslautern","ramstein air base").
+label("/location/location/nearby_airports","1672451;7","fort myers","southwest florida international airport").
+label("/location/location/nearby_airports","1736798;37","fort myers","southwest florida international airport").
+label("/location/location/nearby_airports","1660157;3","millbrook","sky acres airport").
+label("/location/location/nearby_airports","1737355;70","lompoc","vandenberg air force base").
+label("/location/location/nearby_airports","1687038;1","new york city","newark liberty international airport").
+label("/location/location/nearby_airports","1687042;12","new york city","newark liberty international airport").
+label("/location/location/nearby_airports","1648493;17","savannah","hunter army airfield").
+label("/location/location/nearby_airports","1644535;5","san francisco","san francisco international airport").
+label("/location/location/nearby_airports","1743762;47","san francisco","san francisco international airport").
+label("/location/location/nearby_airports","3624417;1","bow island","bow island airport").
+label("/location/location/nearby_airports","16784359;5","les cèdres","montréal/les cèdres airport").
+label("/location/location/nearby_airports","28836146;8","paris","cox field").
+label("/location/location/nearby_airports","24988669;2","havana","josé martí international airport").
+label("/location/location/nearby_airports","92898;70","viterbo","rome viterbo airport").
+label("/location/location/nearby_airports","1438801;4","memanbetsu","memanbetsu airport").
+label("/location/location/nearby_airports","10563140;2","newport","newport municipal airport").
+label("/location/location/nearby_airports","981781;113","auckland","auckland transport").
+label("/location/location/nearby_airports","42709819;16","japan","naval air station atsugi").
+label("/location/location/nearby_airports","40916420;18","damascus","damascus international airport").
+label("/location/location/nearby_airports","262559;67","philadelphia","philadelphia international airport").
+label("/location/location/nearby_airports","29724761;3","road town","terrance b. lettsome international airport").
+label("/location/location/nearby_airports","36388471;1","oxford","oxford airport").
+label("/location/location/nearby_airports","8408365;2","sovetskaya gavan","kamenny ruchey").
+label("/location/location/nearby_airports","11211151;19","valdosta","moody air force base").
+label("/location/location/nearby_airports","766631;19","orlando","orlando international airport").
+label("/location/location/nearby_airports","263637;118","orlando","orlando international airport").
+label("/location/location/nearby_airports","3139386;51","franca","franca airport").
+label("/location/location/nearby_airports","27876453;2","weaver","mcminn airport").
+label("/location/location/nearby_airports","4423456;3","peterborough","peterborough railway").
+label("/location/location/nearby_airports","4060580;2","nakhon ratchasima","korat royal thai air force base").
+label("/location/location/nearby_airports","17990326;2","medan","polonia international airport").
+label("/location/location/nearby_airports","16147717;2","sint eustatius","f.d. roosevelt airport").
+label("/location/location/nearby_airports","31996539;2","izumisano","kansai international airport").
+label("/location/location/nearby_airports","1765243;2","tenerife","tenerife north airport").
+label("/location/location/nearby_airports","900545;24","hamburg","hamburg finkenwerder airport").
+label("/location/location/nearby_airports","12824661;1","west goshen township","brandywine airport").
+label("/location/location/nearby_airports","31365986;2","yuma","yuma international airport").
+label("/location/location/nearby_airports","2109362;3","salvador","deputado luís eduardo magalhães international airport").
+label("/location/location/nearby_airports","6793174;26","tokyo","haneda airport").
+label("/location/location/nearby_airports","204409;2","murcia","murcia san javier airport").
+label("/location/location/nearby_airports","10972485;1","grundy","grundy municipal airport").
+label("/location/location/nearby_airports","105496;20","ketchikan","ketchikan international airport").
+label("/location/location/nearby_airports","4739856;2","caldwell","caldwell industrial airport").
+label("/location/location/nearby_airports","26162278;3","sigtuna municipality","stockholm arlanda airport").
+label("/location/location/nearby_airports","2911549;2","cranfield","cranfield airport").
+label("/location/location/nearby_airports","35030408;8","lafayette","lafayette municipal airport").
+label("/location/location/nearby_airports","1649247;11","manila","ninoy aquino international airport").
+label("/location/location/nearby_airports","10936354;3","manila","ninoy aquino international airport").
+label("/location/location/nearby_airports","9108922;23","manila","ninoy aquino international airport").
+label("/location/location/nearby_airports","36481599;2","juruena","juruena airport").
+label("/location/location/nearby_airports","1662635;31","toronto","toronto pearson international airport").
+label("/location/location/nearby_airports","4481890;25","hartford","bradley international airport").
+label("/location/location/nearby_airports","597835;2","sedona","sedona airport").
+label("/location/location/nearby_airports","24243655;1","camp edwards","camp edwards heliport").
+label("/location/location/nearby_airports","1128000;3","momona","dunedin international airport").
+label("/location/location/nearby_airports","137333;8","highgate","franklin county airport").
+label("/location/location/nearby_airports","2046138;9","sacramento","mcclellan army airfield").
+label("/location/location/nearby_airports","40198709;2","nairobi","jomo kenyatta international airport").
+label("/location/location/nearby_airports","39300293;2","mansa","mansa airport").
+label("/location/location/nearby_airports","38054400;2","shanghai","shanghai pudong international airport").
+label("/location/location/nearby_airports","5584410;4","townsville","lavarack barracks").
+label("/location/location/nearby_airports","33171303;4","van horn","culberson county airport").
+label("/location/location/nearby_airports","9187379;18","kochi","cochin international airport").
+label("/location/location/nearby_airports","3307725;1","bilbao","bilbao airport").
+label("/location/location/nearby_airports","14530485;2","oak harbor","a.j. eisenberg airport").
+label("/location/location/nearby_airports","4958731;2","wichita","cessna aircraft field").
+label("/location/location/nearby_airports","84658;120","ewing township","trenton-mercer airport").
+label("/location/location/nearby_airports","2590992;23","perth","perth airport").
+label("/location/location/nearby_airports","18944539;1","glasgow","glasgow industrial airport").
+label("/location/location/nearby_airports","57158;56","eelde","groningen airport eelde").
+label("/location/location/nearby_airports","953921;4","sioux lookout","sioux lookout airport").
+label("/location/location/nearby_airports","380061;86","bridgeport","sikorsky memorial airport").
+label("/location/location/nearby_airports","9829757;24","sydney","bankstown airport").
+label("/location/location/nearby_airports","138476;11","fairmont","fairmont municipal airport").
+label("/location/location/nearby_airports","8628134;2","tiruchirapalli","tiruchirappalli international airport").
+label("/location/location/nearby_airports","4309275;2","dalbandin","dalbandin airport").
+label("/location/location/nearby_airports","27515311;2","grenchen","grenchen airport").
+label("/location/location/nearby_airports","14042201;2","bainbridge","decatur county industrial air park").
+label("/location/location/nearby_airports","108342;116","oxnard","oxnard airport").
+label("/location/location/nearby_airports","11624473;7","osaka","kansai international airport").
+label("/location/location/nearby_airports","37024148;2","republic of the congo","oyo ollombo airport").
+label("/location/location/nearby_airports","33820757;7","hyderabad","rajiv gandhi international airport").
+label("/location/location/nearby_airports","1606991;14","brazzaville","maya maya airport").
+label("/location/location/nearby_airports","9871595;1","moala islands","moala airport").
+label("/location/location/nearby_airports","26400437;31","charleroi","brussels-south charleroi airport").
+label("/location/location/nearby_airports","2386615;19","meenambakkam","chennai international airport").

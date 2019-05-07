@@ -1,0 +1,1944 @@
+county("hartford county").
+county("berrien county").
+county("pulaski county").
+county("chickasaw county").
+county("santa fe county").
+county("white county").
+county("baldwin county").
+county("chattooga county").
+county("hancock county").
+county("floyd county").
+county("cass county").
+county("rio arriba county").
+county("tuscarawas county").
+county("hidalgo county").
+county("san juan county").
+county("morgan county").
+county("glynn county").
+county("barranquitas").
+county("pottawattamie county").
+county("bracken county").
+county("cuyahoga county").
+county("staunton city").
+county("dewitt county").
+county("york county").
+county("coweta county").
+county("tishomingo county").
+county("cortland county").
+county("bottineau county").
+county("berks county").
+county("botetourt county").
+county("denver").
+county("dauphin county").
+county("story county").
+county("trimble county").
+county("pocahontas county").
+county("weld county").
+county("volusia county").
+county("monterey county").
+county("carlton county").
+county("red willow county").
+county("passaic county").
+county("adams county").
+county("hoonah-angoon census area").
+county("clearfield county").
+county("moore county").
+county("wyoming county").
+county("bell county").
+county("walthall county").
+county("lycoming county").
+county("orangeburg county").
+county("lauderdale county").
+county("kings county").
+county("st. francois county").
+county("gentry county").
+county("cherry county").
+county("frontier county").
+county("putnam county").
+county("dorado").
+county("obion county").
+county("bernalillo county").
+county("sampson county").
+county("morton county").
+county("oxford county").
+county("medina county").
+county("muskogee county").
+county("gordon county").
+county("fairfax county, virginia").
+county("anderson county").
+county("bristol county").
+county("bibb county").
+county("osborne county").
+county("wilson county").
+county("oceana county").
+county("mcpherson county").
+county("kalamazoo county").
+county("donley county").
+county("travis county").
+county("jim hogg county").
+county("bullitt county").
+county("multnomah county").
+county("yankton county").
+county("cameron county").
+county("mccook county").
+county("orleans parish").
+county("escambia county").
+county("montcalm county").
+county("sedgwick county").
+county("aguas buenas").
+county("el paso county").
+county("gwinnett county").
+county("spartanburg county").
+county("kootenai county").
+county("ocean county").
+county("pamlico county").
+county("tooele county").
+county("outagamie county").
+county("oldham county").
+county("edgefield county").
+county("juncos").
+county("collingsworth county").
+county("baxter county").
+county("lafourche parish").
+county("faribault county").
+county("tate county").
+county("lebanon county").
+county("concordia parish").
+county("jefferson davis parish").
+county("forrest county").
+county("rutland county").
+county("miller county").
+county("meeker county").
+county("guernsey county").
+county("hampshire county").
+county("merrimack county").
+county("new hanover county").
+county("ford county").
+county("kerr county").
+county("charles mix county").
+county("dale county").
+county("san benito county").
+county("cerro gordo county").
+county("chatham county").
+county("wexford county").
+county("dundy county").
+county("roosevelt county").
+county("defiance county").
+county("tucker county").
+county("coke county").
+county("vanderburgh county").
+county("sully county").
+county("snyder county").
+county("patrick county").
+county("clallam county").
+county("goshen county").
+county("mcmullen county").
+county("benzie county").
+county("hockley county").
+county("meagher county").
+county("woodruff county").
+county("kearny county").
+county("robertson county").
+county("gosper county").
+county("stone county").
+county("dorchester county").
+county("davie county").
+county("hertford county").
+county("piute county").
+county("harlan county").
+county("barber county").
+county("st. mary parish").
+county("lenoir county").
+county("alexander county").
+county("lander county").
+county("sandoval county").
+county("torrance county").
+county("palo pinto county").
+county("greenlee county").
+county("tulare county").
+county("caroline county").
+county("lipscomb county").
+county("bayfield county").
+county("kearney county").
+county("catahoula parish").
+county("barry county").
+county("dickens county").
+county("nagüabo").
+county("grimes county").
+county("danville").
+county("bowman county").
+county("comal county").
+county("hudspeth county").
+county("sanpete county").
+county("smyth county").
+county("pecos county").
+county("barton county").
+county("wichita county").
+county("ouray county").
+county("wabaunsee county").
+county("prince edward county").
+county("rawlins county").
+county("aransas county").
+county("ketchikan gateway borough").
+county("canadian county").
+county("kidder county").
+county("bosque county").
+county("bristol bay borough").
+county("mono county").
+county("coahoma county").
+county("kalkaska county").
+county("san augustine county").
+county("vega baja").
+county("arroyo").
+county("abbeville county").
+county("bear lake county").
+county("parke county").
+county("nuckolls county").
+county("pratt county").
+county("garrard county").
+county("white pine county").
+county("jefferson davis county").
+county("merrick county").
+county("noxubee county").
+county("bent county").
+county("zavala county").
+county("churchill county").
+county("poquoson").
+county("kalawao county").
+county("treasure county").
+county("hettinger county").
+county("bledsoe county").
+county("del norte county").
+county("alger county").
+county("deer lodge county").
+county("carolina").
+county("owsley county").
+county("ponce").
+county("doddridge county").
+county("borden county").
+county("georgetown county").
+county("muscogee county").
+county("harrisonburg").
+county("wilbarger county").
+county("brazos county").
+county("amelia county").
+county("monroe county").
+county("mclennan county").
+county("lyon county").
+county("atoka county").
+county("delaware county").
+county("jackson county").
+county("indiana county").
+county("crockett county").
+county("autauga county").
+county("valdez-cordova census area").
+county("sacramento county").
+county("knox county").
+county("howard county").
+county("grant county").
+county("newton county").
+county("dodge county").
+county("essex county").
+county("bladen county").
+county("gaston county").
+county("renville county").
+county("carter county").
+county("fauquier county").
+county("fairfield county").
+county("jefferson county").
+county("hickory county").
+county("gove county").
+county("rush county").
+county("st. charles county").
+county("oneida county").
+county("hansford county").
+county("haskell county").
+county("snohomish county").
+county("minidoka county").
+county("tallapoosa county").
+county("laclede county").
+county("meriwether county").
+county("middlesex county").
+county("de soto parish").
+county("todd county").
+county("dunklin county").
+county("atlantic county").
+county("okmulgee county").
+county("fannin county").
+county("sauk county").
+county("schuyler county").
+county("cuming county").
+county("sheridan county").
+county("gilpin county").
+county("lexington county").
+county("crenshaw county").
+county("mendocino county").
+county("traill county").
+county("champaign county").
+county("lane county").
+county("windsor county").
+county("claiborne county").
+county("mobile county").
+county("bienville parish").
+county("yalobusha county").
+county("kenosha county").
+county("rockland county").
+county("waushara county").
+county("russell county").
+county("las marías").
+county("kershaw county").
+county("jeff davis county").
+county("lac qui parle county").
+county("santa cruz county").
+county("towns county").
+county("greeley county").
+county("chemung county").
+county("toombs county").
+county("greenwood county").
+county("dooly county").
+county("duval county").
+county("pleasants county").
+county("kittitas county").
+county("mohave county").
+county("sumner county").
+county("graham county").
+county("becker county").
+county("broome county").
+county("oswego county").
+county("rockwall county").
+county("sandusky county").
+county("san lorenzo").
+county("kiowa county").
+county("deaf smith county").
+county("panola county").
+county("newport county").
+county("throckmorton county").
+county("prince william county").
+county("brooke county").
+county("quebradillas").
+county("hamlin county").
+county("hutchinson county").
+county("san mateo county").
+county("piatt county").
+county("vermilion parish").
+county("decatur county").
+county("wallace county").
+county("clearwater county").
+county("vega alta").
+county("st. landry parish").
+county("delta county").
+county("alpine county").
+county("north slope borough").
+county("lucas county").
+county("wilkes county").
+county("bay county").
+county("strafford county").
+county("bucks county").
+county("otsego county").
+county("millard county").
+county("cocke county").
+county("tuolumne county").
+county("cassia county").
+county("arenac county").
+county("colfax county").
+county("beadle county").
+county("navajo county").
+county("fulton county").
+county("van buren county").
+county("routt county").
+county("pima county").
+county("maverick county").
+county("trempealeau county").
+county("emanuel county").
+county("cannon county").
+county("pasco county").
+county("yamhill county").
+county("knott county").
+county("anson county").
+county("transylvania county").
+county("aleutians west census area").
+county("whitley county").
+county("assumption parish").
+county("norman county").
+county("hodgeman county").
+county("ballard county").
+county("hart county").
+county("searcy county").
+county("alachua county").
+county("wilkinson county").
+county("sharkey county").
+county("dickey county").
+county("sevier county").
+county("mitchell county").
+county("muskegon county").
+county("cataño").
+county("guayanilla").
+county("levy county").
+county("allen parish").
+county("dinwiddie county").
+county("griggs county").
+county("foard county").
+county("somervell county").
+county("beaverhead county").
+county("leon county").
+county("gillespie county").
+county("bee county").
+county("kodiak island borough").
+county("taliaferro county").
+county("spencer county").
+county("amherst county").
+county("mayagüez").
+county("newberry county").
+county("tippecanoe county").
+county("charlevoix county").
+county("rosebud county").
+county("ransom county").
+county("southampton county").
+county("loudoun county").
+county("hardee county").
+county("nez perce county").
+county("laurel county").
+county("heard county").
+county("presidio county").
+county("gooding county").
+county("callahan county").
+county("tangipahoa parish").
+county("blair county").
+county("nacogdoches county").
+county("letcher county").
+county("arkansas county").
+county("dyer county").
+county("greensville county").
+county("maunabo").
+county("villalba").
+county("sabana grande").
+county("dallam county").
+county("bedford").
+county("starke county").
+county("addison county").
+county("lavaca county").
+county("galax city").
+county("iosco county").
+county("itawamba county").
+county("los alamos county").
+county("asotin county").
+county("nolan county").
+county("st. louis").
+county("cottle county").
+county("reagan county").
+county("alexandria").
+county("loving county").
+county("atkinson county").
+county("keith county").
+county("greer county").
+county("newport news").
+county("pershing county").
+county("bath county").
+county("roanoke county").
+county("manassas park").
+county("juneau").
+county("grenada county").
+county("garden county").
+county("charles city county").
+county("kenedy county").
+county("lawrence county").
+county("augusta county").
+county("nottoway county").
+county("tazewell county").
+county("logan county").
+county("shelby county").
+county("ogemaw county").
+county("geneva county").
+county("boulder county").
+county("lee county").
+county("franklin county").
+county("washington county").
+county("woodbury county").
+county("big stone county").
+county("gallatin county").
+county("lea county").
+county("umatilla county").
+county("new haven county").
+county("hardy county").
+county("manitowoc county").
+county("isabela").
+county("dakota county").
+county("marshall county").
+county("pipestone county").
+county("monmouth county").
+county("ulster county").
+county("richmond county").
+county("dougherty county").
+county("haralson county").
+county("gurabo").
+county("elk county").
+county("schuylkill county").
+county("venango county").
+county("santa clara county").
+county("brevard county").
+county("bond county").
+county("houghton county").
+county("beckham county").
+county("huntingdon county").
+county("hartley county").
+county("laramie county").
+county("barron county").
+county("dimmit county").
+county("jim wells county").
+county("johnson county").
+county("starr county").
+county("wise county").
+county("dona ana county").
+county("hawkins county").
+county("wyandotte county").
+county("moca").
+county("pettis county").
+county("wayne county").
+county("hampton county").
+county("benton county").
+county("latah county").
+county("webster parish").
+county("pope county").
+county("lafayette county").
+county("fergus county").
+county("salt lake county").
+county("aitkin county").
+county("turner county").
+county("kern county").
+county("mecosta county").
+county("olmsted county").
+county("halifax county").
+county("ross county").
+county("smith county").
+county("titus county").
+county("dubuque county").
+county("ramsey county").
+county("thurston county").
+county("stutsman county").
+county("lyman county").
+county("archer county").
+county("brewster county").
+county("crawford county").
+county("talbot county").
+county("saginaw county").
+county("wilkin county").
+county("stoddard county").
+county("yellowstone county").
+county("dixon county").
+county("ashland county").
+county("klamath county").
+county("rockingham county").
+county("hale county").
+county("hardeman county").
+county("tioga county").
+county("austin county").
+county("chautauqua county").
+county("st. clair county").
+county("sullivan county").
+county("belknap county").
+county("new madrid county").
+county("weston county").
+county("windham county").
+county("iredell county").
+county("mason county").
+county("trumbull county").
+county("ray county").
+county("woodford county").
+county("hickman county").
+county("fillmore county").
+county("inyo county").
+county("troup county").
+county("chariton county").
+county("emmons county").
+county("lorain county").
+county("pickaway county").
+county("wharton county").
+county("caguas").
+county("haines borough").
+county("covington county").
+county("pender county").
+county("hampden county").
+county("moniteau county").
+county("norfolk county").
+county("las animas county").
+county("marengo county").
+county("mille lacs county").
+county("dewey county").
+county("la paz county").
+county("massac county").
+county("morris county").
+county("cape girardeau county").
+county("cattaraugus county").
+county("caddo county").
+county("centre county").
+county("galveston county").
+county("converse county").
+county("iowa county").
+county("porter county").
+county("apache county").
+county("st. bernard parish").
+county("long county").
+county("stephenson county").
+county("berkeley county").
+county("day county").
+county("mahoning county").
+county("oktibbeha county").
+county("menominee county").
+county("andrew county").
+county("tompkins county").
+county("natrona county").
+county("glades county").
+county("whitfield county").
+county("huron county").
+county("choctaw county").
+county("oklahoma county").
+county("motley county").
+county("ontario county").
+county("laurens county").
+county("ness county").
+county("box elder county").
+county("uinta county").
+county("jackson parish").
+county("rensselaer county").
+county("milam county").
+county("hayes county").
+county("río grande").
+county("boyle county").
+county("izard county").
+county("beltrami county").
+county("missoula county").
+county("hot springs county").
+county("freestone county").
+county("waller county").
+county("emery county").
+county("burnet county").
+county("jay county").
+county("drew county").
+county("cabell county").
+county("burt county").
+county("claiborne parish").
+county("plaquemines parish").
+county("winona county").
+county("tillamook county").
+county("williamsburg county").
+county("holmes county").
+county("staten island").
+county("san jacinto county").
+county("chittenden county").
+county("harvey county").
+county("rhea county").
+county("ashley county").
+county("grand forks county").
+county("surry county").
+county("wade hampton census area").
+county("colorado county").
+county("marquette county").
+county("yuma county").
+county("faulkner county").
+county("keya paha county").
+county("uintah county").
+county("bullock county").
+county("rooks county").
+county("marlboro county").
+county("posey county").
+county("tallahatchie county").
+county("sarpy county").
+county("navarro county").
+county("isanti county").
+county("yolo county").
+county("gulf county").
+county("muscatine county").
+county("humacao").
+county("darlington county").
+county("bowie county").
+county("kennebec county").
+county("mariposa county").
+county("crowley county").
+county("edgar county").
+county("box butte county").
+county("st. martin parish").
+county("shackelford county").
+county("santa rosa county").
+county("st. lawrence county").
+county("east baton rouge parish").
+county("conway county").
+county("gregg county").
+county("sterling county").
+county("juab county").
+county("kanabec county").
+county("harnett county").
+county("cochran county").
+county("haakon county").
+county("st. tammany parish").
+county("jayuya").
+county("cole county").
+county("aibonito").
+county("chaves county").
+county("reeves county").
+county("cooper county").
+county("ziebach county").
+county("cheboygan county").
+county("roanoke").
+county("richmond").
+county("gilchrist county").
+county("archuleta county").
+county("parmer county").
+county("durham county").
+county("schoolcraft county").
+county("slope county").
+county("juana díaz").
+county("arlington county").
+county("morehouse parish").
+county("edmunds county").
+county("edmonson county").
+county("yoakum county").
+county("nye county").
+county("glasscock county").
+county("rockdale county").
+county("king george county").
+county("lumpkin county").
+county("virginia beach").
+county("jennings county").
+county("goliad county").
+county("guayama").
+county("pickett county").
+county("kenton county").
+county("st. helena parish").
+county("dukes county").
+county("fayette county").
+county("cherokee county").
+county("palm beach county").
+county("henry county").
+county("liberty county").
+county("harrison county").
+county("wright county").
+county("itasca county").
+county("granite county").
+county("roseau county").
+county("columbia county").
+county("mcclain county").
+county("allegheny county").
+county("hopkins county").
+county("kaufman county").
+county("skagit county").
+county("penobscot county").
+county("banner county").
+county("talladega county").
+county("st. charles parish").
+county("allegan county").
+county("blue earth county").
+county("rock county").
+county("mineral county").
+county("alfalfa county").
+county("ringgold county").
+county("murray county").
+county("mountrail county").
+county("lenawee county").
+county("bennett county").
+county("bastrop county").
+county("plymouth county").
+county("henderson county").
+county("pike county").
+county("nelson county").
+county("walsh county").
+county("beaver county").
+county("racine county").
+county("dallas county").
+county("king county").
+county("dekalb county").
+county("mecklenburg county").
+county("cape may county").
+county("willacy county").
+county("ellis county").
+county("gonzales county").
+county("union parish").
+county("yavapai county").
+county("meade county").
+county("norton county").
+county("lincoln parish").
+county("mower county").
+county("schenectady county").
+county("victoria county").
+county("barceloneta").
+county("maries county").
+county("fresno county").
+county("santa barbara county").
+county("miami-dade county").
+county("ogle county").
+county("brunswick county").
+county("mcintosh county").
+county("williams county").
+county("appomattox county").
+county("appanoose county").
+county("barnstable county").
+county("west carroll parish").
+county("hillsborough county").
+county("grundy county").
+county("scott county").
+county("webster county").
+county("maricopa county").
+county("upshur county").
+county("hempstead county").
+county("sumter county").
+county("nemaha county").
+county("st. joseph county").
+county("edwards county").
+county("robeson county").
+county("sherman county").
+county("harford county").
+county("la salle county").
+county("arthur county").
+county("shasta county").
+county("kauai county").
+county("kankakee county").
+county("gates county").
+county("minnehaha county").
+county("lowndes county").
+county("wolfe county").
+county("saratoga county").
+county("columbus county").
+county("ritchie county").
+county("wirt county").
+county("wilcox county").
+county("tift county").
+county("divide county").
+county("sarasota county").
+county("wicomico county").
+county("nodaway county").
+county("vinton county").
+county("freeborn county").
+county("waupaca county").
+county("waldo county").
+county("jenkins county").
+county("potter county").
+county("comanche county").
+county("shannon county").
+county("bexar county").
+county("adair county").
+county("garrett county").
+county("harmon county").
+county("latimer county").
+county("placer county").
+county("walker county").
+county("tolland county").
+county("rapides parish").
+county("judith basin county").
+county("highlands county").
+county("gibson county").
+county("scioto county").
+county("page county").
+county("colleton county").
+county("mcdonald county").
+county("buncombe county").
+county("ward county").
+county("woods county").
+county("pinal county").
+county("independence county").
+county("clinch county").
+county("manistee county").
+county("phelps county").
+county("scurry county").
+county("reynolds county").
+county("elko county").
+county("brookings county").
+county("baca county").
+county("pointe coupee parish").
+county("cavalier county").
+county("zapata county").
+county("powhatan county").
+county("vilas county").
+county("scotts bluff county").
+county("live oak county").
+county("estill county").
+county("vieques").
+county("colbert county").
+county("citrus county").
+county("keokuk county").
+county("ste. genevieve county").
+county("shenandoah county").
+county("yabucoa").
+county("scotland county").
+county("iron county").
+county("san sebastián").
+county("swisher county").
+county("quitman county").
+county("prairie county").
+county("ozark county").
+county("evans county").
+county("eastland county").
+county("portsmouth").
+county("foster county").
+county("clarion county").
+county("black hawk county").
+county("mcleod county").
+county("huerfano county").
+county("davison county").
+county("sublette county").
+county("jones county").
+county("hot spring county").
+county("la plata county").
+county("cobb county").
+county("yates county").
+county("oglethorpe county").
+county("añasco").
+county("prentiss county").
+county("forest county").
+county("teton county").
+county("toa baja").
+county("kay county").
+county("fairbanks north star borough").
+county("rockcastle county").
+county("skamania county").
+county("gregory county").
+county("lagrange county").
+county("sanborn county").
+county("allamakee county").
+county("walla walla county").
+county("washburn county").
+county("hudson county").
+county("watonwan county").
+county("iberia parish").
+county("de baca county").
+county("pueblo county").
+county("echols county").
+county("roane county").
+county("yancey county").
+county("fall river county").
+county("terrell county").
+county("brantley county").
+county("madera county").
+county("niagara county").
+county("las piedras").
+county("stanton county").
+county("radford").
+county("neshoba county").
+county("ector county").
+county("nance county").
+county("pittsylvania county").
+county("tattnall county").
+county("dent county").
+county("coal county").
+county("lanier county").
+county("shoshone county").
+county("okeechobee county").
+county("luquillo").
+county("barrow county").
+county("garza county").
+county("keweenaw county").
+county("cullman county").
+county("tehama county").
+county("clarendon county").
+county("patillas").
+county("hand county").
+county("rio grande county").
+county("caswell county").
+county("grafton county").
+county("winneshiek county").
+county("catoosa county").
+county("loíza").
+county("huntington county").
+county("toole county").
+county("kinney county").
+county("kimble county").
+county("hitchcock county").
+county("socorro county").
+county("concho county").
+county("burleson county").
+county("lynn county").
+county("daniels county").
+county("tyrrell county").
+county("adjuntas").
+county("aguadilla").
+county("butts county").
+county("baltimore").
+county("mccone county").
+county("bristol").
+county("mayes county").
+county("kent county").
+county("mccormick county").
+county("lincoln county").
+county("carroll county").
+county("lasalle county").
+county("copiah county").
+county("hall county").
+county("camden county").
+county("harris county").
+county("madison county").
+county("will county").
+county("hoke county").
+county("mccurtain county").
+county("kitsap county").
+county("spokane county").
+county("sagadahoc county").
+county("erie county").
+county("osage county").
+county("boone county").
+county("ventura county").
+county("o'brien county").
+county("butler county").
+county("cloud county").
+county("washington parish").
+county("chippewa county").
+county("richardson county").
+county("terry county").
+county("new london county").
+county("marathon county").
+county("effingham county").
+county("williamson county").
+county("summit county").
+county("los angeles county").
+county("moffat county").
+county("broward county").
+county("ida county").
+county("craig county").
+county("matanuska-susitna borough").
+county("ouachita county").
+county("gogebic county").
+county("waseca county").
+county("nobles county").
+county("le flore county").
+county("gray county").
+county("piscataquis county").
+county("schoharie county").
+county("muskingum county").
+county("lackawanna county").
+county("brazoria county").
+county("marin county").
+county("rabun county").
+county("dickinson county").
+county("pontotoc county").
+county("hays county").
+county("okanogan county").
+county("riverside county").
+county("sutter county").
+county("republic county").
+county("bergen county").
+county("yazoo county").
+county("brooks county").
+county("mingo county").
+county("oconto county").
+county("banks county").
+county("cheyenne county").
+county("pushmataha county").
+county("dearborn county").
+county("rice county").
+county("morrill county").
+county("musselshell county").
+county("gage county").
+county("bolivar county").
+county("otero county").
+county("guthrie county").
+county("avery county").
+county("carlisle county").
+county("mcdowell county").
+county("blount county").
+county("anne arundel county").
+county("pine county").
+county("nash county").
+county("giles county").
+county("buffalo county").
+county("stokes county").
+county("pittsburg county").
+county("weber county").
+county("coconino county").
+county("stewart county").
+county("tuscaloosa county").
+county("dawson county").
+county("watauga county").
+county("cross county").
+county("osceola county").
+county("androscoggin county").
+county("tuscola county").
+county("stillwater county").
+county("athens county").
+county("salinas").
+county("napa county").
+county("plumas county").
+county("alleghany county").
+county("mckean county").
+county("sharp county").
+county("oscoda county").
+county("eagle county").
+county("castro county").
+county("buena vista city").
+county("dillingham census area").
+county("yellow medicine county").
+county("attala county").
+county("rolette county").
+county("noble county").
+county("atchison county").
+county("ferry county").
+county("owen county").
+county("clarke county").
+county("callaway county").
+county("peoria county").
+county("auglaize county").
+county("washita county").
+county("saguache county").
+county("oconee county").
+county("spink county").
+county("wrangell-petersburg census area").
+county("edgecombe county").
+county("codington county").
+county("kingfisher county").
+county("lonoke county").
+county("bossier parish").
+county("josephine county").
+county("kendall county").
+county("gasconade county").
+county("forsyth county").
+county("okfuskee county").
+county("real county").
+county("de witt county").
+county("wahkiakum county").
+county("glacier county").
+county("poinsett county").
+county("okaloosa county").
+county("mackinac county").
+county("hunterdon county").
+county("whitman county").
+county("preble county").
+county("audrain county").
+county("leslie county").
+county("habersham county").
+county("florida").
+county("prowers county").
+county("early county").
+county("bennington county").
+county("fentress county").
+county("upson county").
+county("leelanau county").
+county("cooke county").
+county("hood county").
+county("chesterfield county").
+county("schley county").
+county("hocking county").
+county("tunica county").
+county("faulk county").
+county("hughes county").
+county("yakima county").
+county("wakulla county").
+county("laporte county").
+county("jack county").
+county("bryan county").
+county("paulding county").
+county("pend oreille county").
+county("barnwell county").
+county("weakley county").
+county("bureau county").
+county("furnas county").
+county("crook county").
+county("dickenson county").
+county("fisher county").
+county("aroostook county").
+county("breckinridge county").
+county("oregon county").
+county("sargent county").
+county("cheshire county").
+county("perkins county").
+county("cottonwood county").
+county("tipton county").
+county("emporia").
+county("reno county").
+county("mckinley county").
+county("ben hill county").
+county("costilla county").
+county("fleming county").
+county("marinette county").
+county("hormigueros").
+county("bon homme county").
+county("love county").
+county("thayer county").
+county("bamberg county").
+county("fredericksburg").
+county("vermilion county").
+county("boundary county").
+county("peach county").
+county("cidra").
+county("east feliciana parish").
+county("benson county").
+county("cimarron county").
+county("corozal").
+county("covington city").
+county("miner county").
+county("kosciusko county").
+county("lunenburg county").
+county("woodson county").
+county("utuado").
+county("gladwin county").
+county("cecil county").
+county("davidson county").
+county("traverse county").
+county("richland parish").
+county("summers county").
+county("rincón").
+county("new kent county").
+county("swift county").
+county("culebra").
+county("elbert county").
+county("mccracken county").
+county("gallia county").
+county("manatí").
+county("nicholas county").
+county("baraga county").
+county("williamsburg").
+county("rappahannock county").
+county("montour county").
+county("alcona county").
+county("aguada").
+county("ware county").
+county("ontonagon county").
+county("bland county").
+county("casey county").
+county("breathitt county").
+county("san saba county").
+county("currituck county").
+county("wheatland county").
+county("spotsylvania county").
+county("catron county").
+county("anchorage").
+county("metcalfe county").
+county("larue county").
+county("naranjito").
+county("san germán").
+county("andrews county").
+county("west feliciana parish").
+county("san juan").
+county("terrebonne parish").
+county("shawano county").
+county("fort bend county").
+county("rusk county").
+county("perry county").
+county("chase county").
+county("jasper county").
+county("clatsop county").
+county("angelina county").
+county("alamosa county").
+county("pinellas county").
+county("iroquois county").
+county("mcdonough county").
+county("st. louis county").
+county("sanilac county").
+county("sussex county").
+county("alamance county").
+county("macon county").
+county("lamoure county").
+county("lafayette parish").
+county("queen anne's county").
+county("cedar county").
+county("saunders county").
+county("texas county").
+county("bradford county").
+county("jessamine county").
+county("buchanan county").
+county("fremont county").
+county("collier county").
+county("gadsden county").
+county("montgomery county").
+county("sac county").
+county("calcasieu parish").
+county("prince george's county").
+county("catawba county").
+county("bandera county").
+county("sawyer county").
+county("cook county").
+county("sherburne county").
+county("dolores county").
+county("westmoreland county").
+county("yukon-koyukuk census area").
+county("sebastian county").
+county("mchenry county").
+county("worcester county").
+county("oakland county").
+county("kittson county").
+county("steele county").
+county("tippah county").
+county("caldwell county").
+county("northampton county").
+county("nueces county").
+county("blackford county").
+county("randolph county").
+county("madison parish").
+county("baltimore county").
+county("saline county").
+county("mclean county").
+county("sioux county").
+county("wallowa county").
+county("douglas county").
+county("pawnee county").
+county("montague county").
+county("thomas county").
+county("lajas").
+county("george county").
+county("curry county").
+county("corson county").
+county("cleburne county").
+county("hennepin county").
+county("onslow county").
+county("portage county").
+county("tom green county").
+county("charlton county").
+county("monona county").
+county("glenn county").
+county("elmore county").
+county("crittenden county").
+county("contra costa county").
+county("humboldt county").
+county("moultrie county").
+county("sangamon county").
+county("wabash county").
+county("pearl river county").
+county("herkimer county").
+county("towner county").
+county("wheeler county").
+county("karnes county").
+county("macoupin county").
+county("cayey").
+county("golden valley county").
+county("rutherford county").
+county("luzerne county").
+county("calhoun county").
+county("steuben county").
+county("coamo").
+county("conecuh county").
+county("lake and peninsula borough").
+county("emmet county").
+county("young county").
+county("san francisco").
+county("st. francis county").
+county("dade county").
+county("maui county").
+county("san joaquin county").
+county("rankin county").
+county("gratiot county").
+county("isabella county").
+county("belmont county").
+county("wood county").
+county("ozaukee county").
+county("poweshiek county").
+county("hamblen county").
+county("san luis obispo county").
+county("collin county").
+county("deuel county").
+county("dickson county").
+county("bradley county").
+county("jewell county").
+county("shawnee county").
+county("sonoma county").
+county("redwood county").
+county("stephens county").
+county("mora county").
+county("hanson county").
+county("coles county").
+county("louisa county").
+county("koochiching county").
+county("gloucester county").
+county("tulsa county").
+county("livingston parish").
+county("wabasha county").
+county("onondaga county").
+county("simpson county").
+county("nicollet county").
+county("crosby county").
+county("providence county").
+county("conejos county").
+county("clayton county").
+county("duplin county").
+county("barbour county").
+county("switzerland county").
+county("blaine county").
+county("fountain county").
+county("elliott county").
+county("winn parish").
+county("san miguel county").
+county("midland county").
+county("island county").
+county("manassas").
+county("henrico county").
+county("stafford county").
+county("greenbrier county").
+county("caledonia county").
+county("hooker county").
+county("flagler county").
+county("tama county").
+county("la crosse county").
+county("gilmer county").
+county("susquehanna county").
+county("burke county").
+county("lubbock county").
+county("kanawha county").
+county("appling county").
+county("tillman county").
+county("door county").
+county("bingham county").
+county("eaton county").
+county("rock island county").
+county("bertie county").
+county("newaygo county").
+county("goodhue county").
+county("pennington county").
+county("honolulu county").
+county("colusa county").
+county("hood river county").
+county("the city and borough of yakutat").
+county("erath county").
+county("el dorado county").
+county("menard county").
+county("gila county").
+county("merced county").
+county("candler county").
+county("irion county").
+county("van zandt county").
+county("childress county").
+county("grainger county").
+county("red river county").
+county("aiken county").
+county("flathead county").
+county("harding county").
+county("schleicher county").
+county("chenango county").
+county("cameron parish").
+county("ochiltree county").
+county("sierra county").
+county("frio county").
+county("aleutians east borough").
+county("king and queen county").
+county("wythe county").
+county("caldwell parish").
+county("licking county").
+county("saluda county").
+county("berkshire county").
+county("amador county").
+county("st. john the baptist parish").
+county("pitkin county").
+county("lassen county").
+county("price county").
+county("caribou county").
+county("sibley county").
+county("carson county").
+county("grand traverse county").
+county("howell county").
+county("wake county").
+county("yuba county").
+county("burleigh county").
+county("chesapeake").
+county("buckingham county").
+county("guilford county").
+county("overton county").
+county("gem county").
+county("crisp county").
+county("hanover county").
+county("sweet grass county").
+county("rains county").
+county("avoyelles parish").
+county("bartholomew county").
+county("elkhart county").
+county("goochland county").
+county("power county").
+county("blanco county").
+county("martinsville city").
+county("ashe county").
+county("graves county").
+county("tensas parish").
+county("ada county").
+county("chicot county").
+county("west baton rouge parish").
+county("culberson county").
+county("sitka").
+county("niobrara county").
+county("owyhee county").
+county("lemhi county").
+county("salem").
+county("luna county").
+county("hopewell").
+county("warrick county").
+county("finney county").
+county("powder river county").
+county("mathews county").
+county("franklin").
+county("bailey county").
+county("brule county").
+county("amite county").
+county("waynesboro city").
+county("magoffin county").
+county("silver bow county").
+county("trousdale county").
+county("bayamón").
+county("crane county").
+county("trigg county").
+county("colonial heights").
+county("petersburg").
+county("calumet county").
+county("payette county").
+county("yell county").
+county("bethel census area").
+county("arapahoe county").
+county("hardin county").
+county("hamilton county").
+county("mills county").
+county("coffey county").
+county("kandiyohi county").
+county("vernon county").
+county("albany county").
+county("nassau county").
+county("stark county").
+county("malheur county").
+county("guadalupe county").
+county("stonewall county").
+county("carbon county").
+county("cowlitz county").
+county("lewis county").
+county("shiawassee county").
+county("dutchess county").
+county("warren county").
+county("winnebago county").
+county("frederick county").
+county("clark county").
+county("columbiana county").
+county("garfield county").
+county("utah county").
+county("nevada county").
+county("park county").
+county("baker county").
+county("guánica").
+county("larimer county").
+county("glascock county").
+county("macomb county").
+county("crow wing county").
+county("antelope county").
+county("suffolk county").
+county("pembina county").
+county("payne county").
+county("bedford county").
+county("pierce county").
+county("sweetwater county").
+county("cumberland county").
+county("taylor county").
+county("maury county").
+county("san diego county").
+county("mcduffie county").
+county("pottawatomie county").
+county("westchester county").
+county("beaufort county").
+county("tarrant county").
+county("monongalia county").
+county("cabo rojo").
+county("siskiyou county").
+county("coos county").
+county("lehigh county").
+county("alameda county").
+county("clare county").
+county("pitt county").
+county("walworth county").
+county("clackamas county").
+county("genesee county").
+county("rogers county").
+county("wagoner county").
+county("cochise county").
+county("kane county").
+county("natchitoches parish").
+county("platte county").
+county("la salle parish").
+county("dubois county").
+county("charles county").
+county("otter tail county").
+county("ashtabula county").
+county("powell county").
+county("major county").
+county("red lake county, minnesota").
+county("tripp county").
+county("barren county").
+county("armstrong county").
+county("labette county").
+county("greenville county").
+county("taos county").
+county("seminole county").
+county("hendricks county").
+county("mcminn county").
+county("chambers county").
+county("bonner county").
+county("pendleton county").
+county("anoka county").
+county("davis county").
+county("hinds county").
+county("highland county").
+county("pacific county").
+county("ohio county").
+county("litchfield county").
+county("riley county").
+county("kemper county").
+county("santa isabel").
+county("fallon county").
+county("big horn county").
+county("cambria county").
+county("randall county").
+county("seneca county").
+county("mifflin county").
+county("prince of wales-outer ketchikan census area").
+county("san bernardino county").
+county("stanly county").
+county("montezuma county").
+county("worth county").
+county("creek county").
+county("grayson county").
+county("harper county").
+county("garland county").
+county("luce county").
+county("st. croix county").
+county("humphreys county").
+county("atascosa county").
+county("etowah county").
+county("little river county").
+county("mesa county").
+county("daviess county").
+county("alpena county").
+county("chilton county").
+county("baylor county").
+county("calaveras county").
+county("otoe county").
+county("st. james parish").
+county("burlington county").
+county("nowata county").
+county("wells county").
+county("cowley county").
+county("salem county").
+county("perquimans county").
+county("san patricio county").
+county("isle of wight county").
+county("aurora county").
+county("st. johns county").
+county("matagorda county").
+county("cabarrus county").
+county("grand county").
+county("doniphan county").
+county("juneau county").
+county("refugio county").
+county("leake county").
+county("solano county").
+county("ripley county").
+county("mahaska county").
+county("carteret county").
+county("whatcom county").
+county("sheboygan county").
+county("tyler county").
+county("telfair county").
+county("kewaunee county").
+county("ralls county").
+county("hillsdale county").
+county("green county").
+county("carver county").
+county("cleveland county").
+county("craven county").
+county("wasatch county").
+county("clear creek county").
+county("leavenworth county").
+county("geary county").
+county("mccreary county").
+county("caddo parish").
+county("geauga county").
+county("cascade county").
+county("klickitat county").
+county("vernon parish").
+county("webb county").
+county("desha county").
+county("greenup county").
+county("grant parish").
+county("le sueur county").
+county("calloway county").
+county("val verde county").
+county("mahnomen county").
+county("ravalli county").
+county("iberville parish").
+county("gilliam county").
+county("trego county").
+county("washakie county").
+county("sunflower county").
+county("limestone county").
+county("bremer county").
+county("cotton county").
+county("bannock county").
+county("vance county").
+county("sabine parish").
+county("wibaux county").
+county("garvin county").
+county("northwest arctic borough").
+county("presque isle county").
+county("storey county").
+county("chaffee county").
+county("unicoi county").
+county("teller county").
+county("leflore county").
+county("haywood county").
+county("kleberg county").
+county("idaho county").
+county("montmorency county").
+county("granville county").
+county("kit carson county").
+county("charlottesville").
+county("dillon county").
+county("daggett county").
+county("maricao").
+county("wyandot county").
+county("culpeper county").
+county("ciales").
+county("jerauld county").
+county("canóvanas").
+county("beauregard parish").
+county("esmeralda county").
+county("branch county").
+county("screven county").
+county("jerome county").
+county("quay county").
+county("benewah county").
+county("coosa county").
+county("morovis").
+county("falls church").
+county("lake of the woods county").
+county("east carroll parish").
+county("winkler county").
+county("dixie county").
+county("briscoe county").
+county("sabine county").
+county("des moines county").
+county("rockbridge county").
+county("braxton county").
+county("loup county").
+county("trujillo alto").
+county("burnett county").
+county("sequatchie county").
+county("winchester").
+county("menifee county").
+county("carson city").
+county("norton").
+county("yauco").
+county("marion county").
+county("lancaster county").
+county("brown county").
+county("clinton county").
+county("pickens county").
+county("roberts county").
+county("charlotte county").
+county("bartow county").
+county("lake county").
+county("buena vista county").
+county("greene county").
+county("martin county").
+county("morrison county").
+county("taney county").
+county("cibola county").
+county("union county").
+county("ottawa county").
+county("van wert county").
+county("hemphill county").
+county("rich county").
+county("raleigh county").
+county("somerset county").
+county("dupage county").
+county("arecibo").
+county("chouteau county").
+county("campbell county").
+county("stevens county").
+county("phillips county").
+county("holt county").
+county("washoe county").
+county("mercer county").
+county("chester county").
+county("hill county").
+county("dane county").
+county("green lake county").
+county("kenai peninsula borough").
+county("lamb county").
+county("kossuth county").
+county("hawaii county").
+county("clay county").
+county("valencia county").
+county("dunn county").
+county("denton county").
+county("duchesne county").
+county("hendry county").
+county("allen county").
+county("preston county").
+county("orleans county").
+county("polk county").
+county("florence county").
+county("new castle county").
+county("vigo county").
+county("orange county").
+county("camas county").
+county("christian county").
+county("ouachita parish").
+county("barnes county").
+county("richland county").
+county("wasco county").
+county("waukesha county").
+county("coffee county").
+county("stearns county").
+county("hyde county").
+county("rowan county").
+county("evangeline parish").
+county("morrow county").
+county("lamar county").
+county("falls county").
+county("ceiba").
+county("comerío").
+county("linn county").
+county("houston county").
+county("calvert county").
+county("mckenzie county").
+county("deschutes county").
+county("charleston county").
+county("lapeer county").
+county("norfolk").
+county("indian river county").
+county("hubbard county").
+county("johnston county").
+county("grady county").
+county("grays harbor county").
+county("imperial county").
+county("stanislaus county").
+county("walton county").
+county("wetzel county").
+county("juniata county").
+county("spalding county").
+county("ellsworth county").
+county("st. mary's county").
+county("miami county").
+county("darke county").
+county("lampasas county").
+county("cache county").
+county("twiggs county").
+county("custer county").
+county("butte county").
+county("suwannee county").
+county("livingston county").
+county("northumberland county").
+county("southeast fairbanks census area").
+county("ionia county").
+county("chisago county").
+county("broadwater county").
+county("woodward county").
+county("accomack county").
+county("gaines county").
+county("modoc county").
+county("neosho county").
+county("dare county").
+county("chelan county").
+county("hunt county").
+county("fluvanna county").
+county("milwaukee county").
+county("winston county").
+county("ingham county").
+county("irwin county").
+county("horry county").
+county("bourbon county").
+county("wadena county").
+county("sequoyah county").
+county("desoto county").
+county("allendale county").
+county("hernando county").
+county("meigs county").
+county("montrose county").
+county("langlade county").
+county("guaynabo").
+county("kingsbury county").
+county("bonneville county").
+county("wapello county").
+county("stanley county").
+county("jo daviess county").
+county("franklin parish").
+county("washtenaw county").
+county("dawes county").
+county("lamoille county").
+county("yadkin county").
+county("vermillion county").
+county("loudon county").
+county("pepin county").
+county("mississippi county").
+county("rio blanco county").
+county("red river parish").
+county("allegany county").
+county("kimball county").
+county("valley county").
+county("palo alto county").
+county("roscommon county").
+county("eddy county").
+county("peñuelas").
+county("craighead county").
+county("whiteside county").
+county("acadia parish").
+county("clermont county").
+county("runnels county").
+county("coryell county").
+county("prince george county").
+county("camp county").
+county("hatillo").
+county("bates county").
+county("parker county").
+county("jefferson parish").
+county("eau claire county").
+county("treutlen county").
+county("nome census area").
+county("kingman county").
+county("pemiscot county").
+county("mcculloch county").
+county("cayuga county").
+county("coshocton county").
+county("boyd county").
+county("manatee county").
+county("sanders county").
+county("orocovis").
+county("alcorn county").
+county("canyon county").
+county("fond du lac county").
+county("roger mills county").
+county("upton county").
+county("issaquena county").
+county("hinsdale county").
+county("oliver county").
+county("trinity county").
+county("colquitt county").
+county("mcnairy county").
+county("lewis and clark county").
+county("pondera county").
+county("harney county").
+county("muhlenberg county").
+county("camuy").
+county("seward county").
+county("denali borough").
+county("missaukee county").
+county("uvalde county").
+county("grand isle county").
+county("st. lucie county").
+county("twin falls county").
+county("lares").
+county("llano county").
+county("bollinger county").
+county("gunnison county").
+county("jersey county").
+county("boise county").
+county("moody county").
+county("coleman county").
+county("cheatham county").
+county("pasquotank county").
+county("sutton county").
+county("antrim county").
+county("person county").
+county("swain county").
+county("suffolk").
+county("billings county").
+county("james city county").
+county("bulloch county").
+county("audubon county").
+county("mellette county").
+county("toa alta").
+county("broomfield").
+county("bacon county").
+county("albemarle county").
+county("king william county").
+county("petroleum county").
+county("eureka county").
+county("chowan county").
+county("philadelphia county").
+county("chattahoochee county").
+county("bleckley county").
+county("lexington city").

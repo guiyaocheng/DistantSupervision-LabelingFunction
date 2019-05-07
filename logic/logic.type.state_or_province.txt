@@ -1,0 +1,203 @@
+stateorprovince("alabama").
+stateorprovince("alaska").
+stateorprovince("american samoa").
+stateorprovince("arizona").
+stateorprovince("arkansas").
+stateorprovince("california").
+stateorprovince("colorado").
+stateorprovince("connecticut").
+stateorprovince("delaware").
+stateorprovince("district of columbia").
+stateorprovince("florida").
+stateorprovince("georgia").
+stateorprovince("guam").
+stateorprovince("hawaii").
+stateorprovince("idaho").
+stateorprovince("illinois").
+stateorprovince("indiana").
+stateorprovince("iowa").
+stateorprovince("kansas").
+stateorprovince("kentucky").
+stateorprovince("louisiana").
+stateorprovince("maine").
+stateorprovince("maryland").
+stateorprovince("massachusetts").
+stateorprovince("michigan").
+stateorprovince("minnesota").
+stateorprovince("mississippi").
+stateorprovince("missouri").
+stateorprovince("montana").
+stateorprovince("nebraska").
+stateorprovince("nevada").
+stateorprovince("new hampshire").
+stateorprovince("new jersey").
+stateorprovince("new mexico").
+stateorprovince("new york").
+stateorprovince("north carolina").
+stateorprovince("north dakota").
+stateorprovince("northern marianas islands").
+stateorprovince("ohio").
+stateorprovince("oklahoma").
+stateorprovince("oregon").
+stateorprovince("pennsylvania").
+stateorprovince("puerto rico").
+stateorprovince("rhode island").
+stateorprovince("south carolina").
+stateorprovince("south dakota").
+stateorprovince("tennessee").
+stateorprovince("texas").
+stateorprovince("utah").
+stateorprovince("vermont").
+stateorprovince("virginia").
+stateorprovince("virgin islands").
+stateorprovince("washington").
+stateorprovince("west virginia").
+stateorprovince("wisconsin").
+stateorprovince("wyoming").
+stateorprovince("british columbia").
+stateorprovince("alberta").
+stateorprovince("saskatchewan").
+stateorprovince("manitoba").
+stateorprovince("ontario").
+stateorprovince("quebec").
+stateorprovince("new brunswick").
+stateorprovince("nova scotia").
+stateorprovince("prince edward island").
+stateorprovince("newfoundland").
+stateorprovince("nunavut").
+stateorprovince("northwest territories").
+stateorprovince("yukon").
+stateorprovince("al").
+stateorprovince("ak").
+stateorprovince("as").
+stateorprovince("az").
+stateorprovince("ar").
+stateorprovince("ca").
+stateorprovince("co").
+stateorprovince("ct").
+stateorprovince("de").
+stateorprovince("dc").
+stateorprovince("fl").
+stateorprovince("ga").
+stateorprovince("gu").
+stateorprovince("hi").
+stateorprovince("id").
+stateorprovince("il").
+stateorprovince("in").
+stateorprovince("ia").
+stateorprovince("ks").
+stateorprovince("ky").
+stateorprovince("la").
+stateorprovince("me").
+stateorprovince("md").
+stateorprovince("ma").
+stateorprovince("mi").
+stateorprovince("mn").
+stateorprovince("ms").
+stateorprovince("mo").
+stateorprovince("mt").
+stateorprovince("ne").
+stateorprovince("nv").
+stateorprovince("nh").
+stateorprovince("nj").
+stateorprovince("nm").
+stateorprovince("ny").
+stateorprovince("nc").
+stateorprovince("nd").
+stateorprovince("oh").
+stateorprovince("ok").
+stateorprovince("or").
+stateorprovince("pa").
+stateorprovince("pr").
+stateorprovince("ri").
+stateorprovince("sc").
+stateorprovince("sd").
+stateorprovince("tn").
+stateorprovince("tx").
+stateorprovince("ut").
+stateorprovince("vt").
+stateorprovince("vi").
+stateorprovince("va").
+stateorprovince("wa").
+stateorprovince("wv").
+stateorprovince("wi").
+stateorprovince("wy").
+stateorprovince("ala.").
+stateorprovince("alaska").
+stateorprovince("ariz.").
+stateorprovince("ark.").
+stateorprovince("calif.").
+stateorprovince("colo.").
+stateorprovince("conn.").
+stateorprovince("del.").
+stateorprovince("columbia").
+stateorprovince("fla.").
+stateorprovince("ga.").
+stateorprovince("hawaii").
+stateorprovince("idaho").
+stateorprovince("ill.").
+stateorprovince("ind.").
+stateorprovince("iowa").
+stateorprovince("kans.").
+stateorprovince("ky.").
+stateorprovince("la.").
+stateorprovince("maine").
+stateorprovince("md.").
+stateorprovince("mass.").
+stateorprovince("mich.").
+stateorprovince("minn.").
+stateorprovince("miss.").
+stateorprovince("mo.").
+stateorprovince("mont.").
+stateorprovince("neb.").
+stateorprovince("nev.").
+stateorprovince("n.h.").
+stateorprovince("n.j.").
+stateorprovince("n.m.").
+stateorprovince("n.y.").
+stateorprovince("n.c.").
+stateorprovince("n.d.").
+stateorprovince("ohio").
+stateorprovince("okla.").
+stateorprovince("ore.").
+stateorprovince("pa.").
+stateorprovince("r.i.").
+stateorprovince("s.c.").
+stateorprovince("s.d.").
+stateorprovince("tenn.").
+stateorprovince("tex.").
+stateorprovince("utah").
+stateorprovince("vt.").
+stateorprovince("va.").
+stateorprovince("wash.").
+stateorprovince("w.v.").
+stateorprovince("wis.").
+stateorprovince("wyo.").
+stateorprovince("ab").
+stateorprovince("bc").
+stateorprovince("mb").
+stateorprovince("nb").
+stateorprovince("nl").
+stateorprovince("nt").
+stateorprovince("ns").
+stateorprovince("nu").
+stateorprovince("on").
+stateorprovince("pe").
+stateorprovince("qc").
+stateorprovince("sk").
+stateorprovince("yt").
+stateorprovince("alta.").
+stateorprovince("b.c.").
+stateorprovince("man.").
+stateorprovince("n.b.").
+stateorprovince("n.f.").
+stateorprovince("n.w.t.").
+stateorprovince("n.s.").
+stateorprovince("nunavut").
+stateorprovince("ont.").
+stateorprovince("p.e.i.").
+stateorprovince("p.q.").
+stateorprovince("qué.").
+stateorprovince("sask.").
+stateorprovince("yuk.").
+stateorprovince("y.t.").

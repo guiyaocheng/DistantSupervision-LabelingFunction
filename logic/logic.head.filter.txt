@@ -1,0 +1,12 @@
+#show label/7.
+
+basic_label(R,S,E1,P1,E2,P2,T1,T2) :- rel(R,E1,E2),ner(S,E1,P1,T1),ner(S,E2,P2,T2).
+key(R,L) :- key(R,L,POS).
+key_in_sent(R,S,E1,P1,E2,P2) :- key(R,L),lemma(S,W,P,L),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+key_in_path(R,S,E1,P1,E2,P2) :- key(R,L),lemma(S,W,P,L),inpath(S,E1,P1,E2,P2,W,P),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+type_sat(R,S,E1,P1,E2,P2) :- type(R,T1,T2),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+conn_sat(R,S,E1,P1,E2,P2) :- conn(R,S,E1,P1,E2,P2),basic_label(R,S,E1,P1,E2,P2,T1,T2).
+label(1,R,S,E1,P1,E2,P2) :- key_in_sent(R,S,E1,P1,E2,P2).
+label(2,R,S,E1,P1,E2,P2) :- key_in_path(R,S,E1,P1,E2,P2).
+label(3,R,S,E1,P1,E2,P2) :- type_sat(R,S,E1,P1,E2,P2).
+label(4,R,S,E1,P1,E2,P2) :- conn_sat(R,S,E1,P1,E2,P2).
